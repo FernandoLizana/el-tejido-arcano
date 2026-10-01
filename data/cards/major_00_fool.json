@@ -1,0 +1,277 @@
+{
+  "id": "major_00_fool",
+  "nombre": "El Loco",
+  "nombre_original": "The Fool",
+  "numero": 0,
+  "legacy_filename": "el_loco.png",
+  "elementos": [
+    "aire"
+  ],
+  "simbolos": [
+    "caminante",
+    "perro",
+    "precipicio",
+    "rosa",
+    "saco",
+    "sol"
+  ],
+  "personajes": [
+    {
+      "tipo": "figura_humana",
+      "cantidad": 1,
+      "movimiento": "avance"
+    }
+  ],
+  "direcciones": {
+    "mirada": [
+      "adelante"
+    ],
+    "movimiento": [
+      "ascendente"
+    ],
+    "orientacion_general": "vertical"
+  },
+  "palabras_clave": {
+    "neutrales": [
+      "inicio",
+      "potencial",
+      "viaje",
+      "inicio sin numero",
+      "movimiento",
+      "tránsito",
+      "liberacion"
+    ],
+    "luz": [
+      "inocencia",
+      "apertura",
+      "confianza",
+      "libertad",
+      "energia creativa",
+      "apertura ilimitada",
+      "impulso esencial",
+      "renuncia a demandas",
+      "flujo vital",
+      "peregrinaje",
+      "verdad irreverente",
+      "ligereza",
+      "apertura sagrada"
+    ],
+    "sombra": [
+      "imprudencia",
+      "ingenuidad",
+      "caos",
+      "huida",
+      "dispersion",
+      "perder de vista el rumbo",
+      "energia sin contenedor",
+      "evasión",
+      "despiste",
+      "crueldad disfrazada de risa",
+      "descuido"
+    ]
+  },
+  "arquetipos": [
+    "inocencia",
+    "viaje_heroe",
+    "exploracion",
+    "liberacion",
+    "energia_primordial"
+  ],
+  "emociones": [
+    "curiosidad",
+    "entusiasmo",
+    "vulnerabilidad",
+    "libertad",
+    "inquietud",
+    "alivio"
+  ],
+  "etapas_narrativas": [
+    "inicio",
+    "llamada"
+  ],
+  "tipo": "arcano_mayor",
+  "palo": null,
+  "mazo": "rider_waite_smith",
+  "imagen": "cartas/el_loco.png",
+  "colores": {
+    "dominantes_rgb": [
+      [
+        249,
+        248,
+        207
+      ],
+      [
+        78,
+        74,
+        41
+      ],
+      [
+        21,
+        21,
+        10
+      ],
+      [
+        147,
+        116,
+        82
+      ],
+      [
+        203,
+        183,
+        121
+      ]
+    ],
+    "dominantes_hex": [
+      "#f9f8cf",
+      "#4e4a29",
+      "#15150a",
+      "#937452",
+      "#cbb779"
+    ],
+    "dominantes_lab": [
+      [
+        96.7304638791318,
+        -6.279426181628356,
+        19.86653146116868
+      ],
+      [
+        31.06122508405101,
+        -3.8632578633531756,
+        20.26272639030867
+      ],
+      [
+        6.482831739735644,
+        -2.0449951552695134,
+        5.565692539109557
+      ],
+      [
+        51.04111120901415,
+        7.4386952224470555,
+        23.398020775660378
+      ],
+      [
+        74.79058629092209,
+        -1.5995267690647186,
+        34.11840886099067
+      ]
+    ],
+    "porcentajes": [
+      0.5195175438596491,
+      0.13859649122807016,
+      0.12383040935672515,
+      0.11483918128654971,
+      0.10321637426900584
+    ],
+    "luminosidad_media": 0.7226708519665177,
+    "saturacion_media": 0.314725579696917,
+    "temperatura_visual": "calida",
+    "histograma_hue_bins": [
+      0.07558479532163744,
+      0.47273391812865495,
+      0.3348684210526316,
+      0.010380116959064328,
+      0.0060672514619883045,
+      0.0015350877192982456,
+      0.05635964912280702,
+      0.010014619883040936,
+      0.0077485380116959065,
+      0.0008040935672514619,
+      0.0011695906432748538,
+      0.02273391812865497
+    ]
+  },
+  "numerologia": {
+    "numero": 0,
+    "reduccion": 0
+  },
+  "fuentes": [
+    "tradicion_rws_comparada",
+    "anotacion_laboratorio_v1",
+    "La vía del Tarot — Alejandro Jodorowsky, Marianne Costa",
+    "El tarot: del dilema a la metáfora — Miguel Ángel Díaz Canseco"
+  ],
+  "version": 3,
+  "attributions": {
+    "significados_jodorowsky": [
+      {
+        "value": "Libertad, gran aporte de energía",
+        "source": "manual",
+        "confidence": 0.85,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_estudio_via_del_tarot"
+      }
+    ],
+    "canseco_metafora": [
+      {
+        "value": "El espejo irreverente del bufón: decir la verdad con insolencia y ligereza.",
+        "source": "manual",
+        "confidence": 0.8,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_canseco_dilema_metafora"
+      }
+    ]
+  },
+  "significados": [
+    {
+      "fuente": "La vía del Tarot",
+      "autores": [
+        "Alejandro Jodorowsky",
+        "Marianne Costa"
+      ],
+      "esencia": "Libertad y gran aporte de energía sin número ni límite previo.",
+      "subtitulo": "Libertad, gran aporte de energía",
+      "en_lectura": "Puede sugerir un empujón vital, un cambio de lugar o relación, o preguntarse hacia dónde va la energía. Vista con cuidado, invita a no perder de vista el rumbo mientras se libera lo estrecho.",
+      "preguntas": [
+        "¿De qué me estoy liberando?",
+        "¿Cómo fluye mi energía ahora?"
+      ],
+      "palabras_luz": [
+        "libertad",
+        "energia creativa",
+        "apertura ilimitada",
+        "impulso esencial",
+        "renuncia a demandas",
+        "flujo vital"
+      ],
+      "palabras_sombra": [
+        "huida",
+        "dispersion",
+        "perder de vista el rumbo",
+        "energia sin contenedor",
+        "evasión"
+      ],
+      "palabras_neutrales": [
+        "inicio sin numero",
+        "movimiento",
+        "tránsito",
+        "liberacion"
+      ]
+    },
+    {
+      "fuente": "El tarot: del dilema a la metáfora",
+      "autores": [
+        "Miguel Ángel Díaz Canseco"
+      ],
+      "esencia": "El espejo irreverente del bufón: decir la verdad con insolencia y ligereza.",
+      "subtitulo": "Del dilema a la metáfora",
+      "en_lectura": "plano de apertura: alguien cruza un umbral sin saber a dónde",
+      "preguntas": [
+        "¿Me atrevo a salir sin mapa, aun pareciendo loco?"
+      ],
+      "palabras_luz": [
+        "peregrinaje",
+        "verdad irreverente",
+        "ligereza",
+        "apertura sagrada"
+      ],
+      "palabras_sombra": [
+        "despiste",
+        "crueldad disfrazada de risa",
+        "descuido"
+      ],
+      "palabras_neutrales": []
+    }
+  ]
+}

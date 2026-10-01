@@ -1,0 +1,260 @@
+{
+  "id": "major_12_hanged_man",
+  "nombre": "El Colgado",
+  "nombre_original": "The Hanged Man",
+  "numero": 12,
+  "legacy_filename": "el_colgado.png",
+  "elementos": [
+    "agua"
+  ],
+  "simbolos": [
+    "arbol",
+    "halo",
+    "cuerda",
+    "inversion",
+    "pierna cruzada"
+  ],
+  "personajes": [
+    {
+      "tipo": "figura_humana",
+      "cantidad": 1,
+      "movimiento": "suspension"
+    }
+  ],
+  "direcciones": {
+    "mirada": [
+      "abajo"
+    ],
+    "movimiento": [
+      "descendente"
+    ],
+    "orientacion_general": "vertical"
+  },
+  "palabras_clave": {
+    "neutrales": [
+      "pausa",
+      "perspectiva",
+      "entrega",
+      "suspension",
+      "espera activa",
+      "manos atadas al acto"
+    ],
+    "luz": [
+      "insight",
+      "aceptacion",
+      "sacrificio consciente",
+      "pausa fertil",
+      "meditacion",
+      "entrega",
+      "nueva mirada",
+      "sabiduria por inversion",
+      "paciencia",
+      "otra mirada",
+      "suspension fertil"
+    ],
+    "sombra": [
+      "estancamiento",
+      "victimismo",
+      "inaccion",
+      "inmovilidad forzada",
+      "sacrificio involuntario",
+      "castigo interior",
+      "inmovilidad amarga"
+    ]
+  },
+  "arquetipos": [
+    "sacrificio",
+    "pasaje",
+    "busqueda_interior",
+    "meditacion"
+  ],
+  "emociones": [
+    "calma",
+    "rendicion",
+    "asombro",
+    "vulnerabilidad lúcida"
+  ],
+  "etapas_narrativas": [
+    "umbrales",
+    "transformacion"
+  ],
+  "tipo": "arcano_mayor",
+  "palo": null,
+  "mazo": "rider_waite_smith",
+  "imagen": "cartas/el_colgado.png",
+  "colores": {
+    "dominantes_rgb": [
+      [
+        216,
+        226,
+        231
+      ],
+      [
+        25,
+        28,
+        27
+      ],
+      [
+        135,
+        82,
+        58
+      ],
+      [
+        77,
+        147,
+        192
+      ],
+      [
+        220,
+        186,
+        80
+      ]
+    ],
+    "dominantes_hex": [
+      "#d8e2e7",
+      "#191c1b",
+      "#87523a",
+      "#4d93c0",
+      "#dcba50"
+    ],
+    "dominantes_lab": [
+      [
+        89.28070711809687,
+        -2.400137956121373,
+        -3.592921759646428
+      ],
+      [
+        9.924977468769377,
+        -1.6773525627582635,
+        0.20585375544915907
+      ],
+      [
+        40.397442597995315,
+        19.534690625242295,
+        23.327688740531073
+      ],
+      [
+        58.27247590347025,
+        -8.538990384531264,
+        -29.97299942578049
+      ],
+      [
+        76.62768114999054,
+        0.3598212646657162,
+        56.732482575257805
+      ]
+    ],
+    "porcentajes": [
+      0.62287545277236,
+      0.14802173307327945,
+      0.10434661465589301,
+      0.07098077458902201,
+      0.05377542490944553
+    ],
+    "luminosidad_media": 0.7442913805254617,
+    "saturacion_media": 0.2478013246420736,
+    "temperatura_visual": "neutra",
+    "histograma_hue_bins": [
+      0.09027584285316247,
+      0.07822513234884369,
+      0.034898300362217895,
+      0.0034132070214544447,
+      0.002925606018389524,
+      0.002229033156868209,
+      0.732446363889663,
+      0.017483978824185016,
+      0.0039008080245193657,
+      0.0002089718584563946,
+      0.0007662301476734467,
+      0.03322652549456674
+    ]
+  },
+  "numerologia": {
+    "numero": 12,
+    "reduccion": 3
+  },
+  "fuentes": [
+    "tradicion_rws_comparada",
+    "anotacion_laboratorio_v1",
+    "La vía del Tarot — Alejandro Jodorowsky, Marianne Costa",
+    "El tarot: del dilema a la metáfora — Miguel Ángel Díaz Canseco"
+  ],
+  "version": 3,
+  "attributions": {
+    "significados_jodorowsky": [
+      {
+        "value": "Parada, meditación, don de uno mismo",
+        "source": "manual",
+        "confidence": 0.85,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_estudio_via_del_tarot"
+      }
+    ],
+    "canseco_metafora": [
+      {
+        "value": "Castigo hecho espera: mirar el mundo al revés hasta otra absolución.",
+        "source": "manual",
+        "confidence": 0.8,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_canseco_dilema_metafora"
+      }
+    ]
+  },
+  "significados": [
+    {
+      "fuente": "La vía del Tarot",
+      "autores": [
+        "Alejandro Jodorowsky",
+        "Marianne Costa"
+      ],
+      "esencia": "Parada, meditación y don de uno mismo.",
+      "subtitulo": "Parada, meditación, don de uno mismo",
+      "en_lectura": "Indica una parada aprovechable: no siempre es castigo. Puede ser el momento de meditar antes de actuar.",
+      "preguntas": [
+        "¿Qué me pide detenerme para ver?",
+        "¿Qué puedo ofrecer sin forzar la acción?"
+      ],
+      "palabras_luz": [
+        "pausa fertil",
+        "meditacion",
+        "entrega",
+        "nueva mirada",
+        "sabiduria por inversion"
+      ],
+      "palabras_sombra": [
+        "estancamiento",
+        "inmovilidad forzada",
+        "sacrificio involuntario"
+      ],
+      "palabras_neutrales": [
+        "suspension",
+        "espera activa",
+        "manos atadas al acto"
+      ]
+    },
+    {
+      "fuente": "El tarot: del dilema a la metáfora",
+      "autores": [
+        "Miguel Ángel Díaz Canseco"
+      ],
+      "esencia": "Castigo hecho espera: mirar el mundo al revés hasta otra absolución.",
+      "subtitulo": "Del dilema a la metáfora",
+      "en_lectura": "cámara invertida; el tiempo parece detenido",
+      "preguntas": [
+        "¿Qué gano si dejo de forcejear un momento?"
+      ],
+      "palabras_luz": [
+        "paciencia",
+        "otra mirada",
+        "suspension fertil"
+      ],
+      "palabras_sombra": [
+        "castigo interior",
+        "inmovilidad amarga"
+      ],
+      "palabras_neutrales": []
+    }
+  ]
+}

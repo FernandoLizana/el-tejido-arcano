@@ -1,0 +1,266 @@
+{
+  "id": "major_13_death",
+  "nombre": "La Muerte",
+  "nombre_original": "Death",
+  "numero": 13,
+  "legacy_filename": "la_muerte.png",
+  "elementos": [
+    "agua"
+  ],
+  "simbolos": [
+    "esqueleto",
+    "caballo",
+    "bandera",
+    "sol",
+    "rio",
+    "torre"
+  ],
+  "personajes": [
+    {
+      "tipo": "figura_humana",
+      "cantidad": 1,
+      "movimiento": "avance"
+    },
+    {
+      "tipo": "figura_humana",
+      "cantidad": 3,
+      "movimiento": "reaccion"
+    }
+  ],
+  "direcciones": {
+    "mirada": [
+      "adelante"
+    ],
+    "movimiento": [
+      "adelante"
+    ],
+    "orientacion_general": "horizontal"
+  },
+  "palabras_clave": {
+    "neutrales": [
+      "final",
+      "transicion",
+      "corte",
+      "arcano sin nombre",
+      "esqueleto",
+      "proceso de muda"
+    ],
+    "luz": [
+      "renacimiento",
+      "liberacion",
+      "renovacion",
+      "transformacion",
+      "corte necesario",
+      "belleza del cambio",
+      "revolucion interior",
+      "mutacion",
+      "corte"
+    ],
+    "sombra": [
+      "miedo",
+      "resistencia",
+      "pérdida",
+      "miedo al cambio",
+      "destruccion sin sentido",
+      "fijarse en la muerte literal",
+      "negacion del cambio",
+      "miedo literalista"
+    ]
+  },
+  "arquetipos": [
+    "muerte_renacimiento",
+    "transformacion",
+    "pasaje",
+    "revolucion"
+  ],
+  "emociones": [
+    "miedo",
+    "alivio",
+    "tristeza",
+    "respeto"
+  ],
+  "etapas_narrativas": [
+    "ruptura",
+    "transformacion",
+    "renacimiento"
+  ],
+  "tipo": "arcano_mayor",
+  "palo": null,
+  "mazo": "rider_waite_smith",
+  "imagen": "cartas/la_muerte.png",
+  "colores": {
+    "dominantes_rgb": [
+      [
+        86,
+        88,
+        67
+      ],
+      [
+        15,
+        16,
+        11
+      ],
+      [
+        154,
+        161,
+        164
+      ],
+      [
+        217,
+        221,
+        221
+      ],
+      [
+        177,
+        162,
+        39
+      ]
+    ],
+    "dominantes_hex": [
+      "#565843",
+      "#0f100b",
+      "#9aa1a4",
+      "#d9dddd",
+      "#b1a227"
+    ],
+    "dominantes_lab": [
+      [
+        36.674378664518095,
+        -4.856101066216451,
+        11.949377995992005
+      ],
+      [
+        4.48309369715264,
+        -1.189215403592181,
+        2.1651562464325202
+      ],
+      [
+        65.7796580959947,
+        -1.8924127932814505,
+        -2.421029101989003
+      ],
+      [
+        87.81668435756515,
+        -1.3477698550046213,
+        -0.472197086892967
+      ],
+      [
+        66.00918324096021,
+        -7.768596357339841,
+        60.95354999979523
+      ]
+    ],
+    "porcentajes": [
+      0.27802916038210157,
+      0.2564102564102564,
+      0.20218343747755513,
+      0.17718882424764779,
+      0.08618832148243913
+    ],
+    "luminosidad_media": 0.46829776656766275,
+    "saturacion_media": 0.23683390876968685,
+    "temperatura_visual": "calida",
+    "histograma_hue_bins": [
+      0.21202327084680025,
+      0.2225095166271637,
+      0.1508295625942685,
+      0.007541478129713423,
+      0.024850966027436618,
+      0.005530417295123178,
+      0.336996336996337,
+      0.024060906413847588,
+      0.013143719026071966,
+      0.0005027652086475616,
+      0.0014364720247073187,
+      0.0005745888098829275
+    ]
+  },
+  "numerologia": {
+    "numero": 13,
+    "reduccion": 4
+  },
+  "fuentes": [
+    "tradicion_rws_comparada",
+    "anotacion_laboratorio_v1",
+    "La vía del Tarot — Alejandro Jodorowsky, Marianne Costa",
+    "El tarot: del dilema a la metáfora — Miguel Ángel Díaz Canseco"
+  ],
+  "version": 3,
+  "attributions": {
+    "significados_jodorowsky": [
+      {
+        "value": "Transformación profunda, revolución",
+        "source": "manual",
+        "confidence": 0.85,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_estudio_via_del_tarot"
+      }
+    ],
+    "canseco_metafora": [
+      {
+        "value": "Tejido de horas: muda continua donde vida y muerte se trenzan.",
+        "source": "manual",
+        "confidence": 0.8,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_canseco_dilema_metafora"
+      }
+    ]
+  },
+  "significados": [
+    {
+      "fuente": "La vía del Tarot",
+      "autores": [
+        "Alejandro Jodorowsky",
+        "Marianne Costa"
+      ],
+      "esencia": "Transformación profunda y revolución, no mera fatalidad.",
+      "subtitulo": "Transformación profunda, revolución",
+      "en_lectura": "Jodorowsky insiste en no reducirla a 'muerte' vulgar: habla de metamorfosis radical cuando algo alcanza su límite.",
+      "preguntas": [
+        "¿Qué forma ha llegado a su límite?",
+        "¿Qué transformación profunda está ocurriendo?"
+      ],
+      "palabras_luz": [
+        "transformacion",
+        "renovacion",
+        "corte necesario",
+        "belleza del cambio",
+        "revolucion interior"
+      ],
+      "palabras_sombra": [
+        "miedo al cambio",
+        "destruccion sin sentido",
+        "fijarse en la muerte literal"
+      ],
+      "palabras_neutrales": [
+        "arcano sin nombre",
+        "esqueleto",
+        "proceso de muda"
+      ]
+    },
+    {
+      "fuente": "El tarot: del dilema a la metáfora",
+      "autores": [
+        "Miguel Ángel Díaz Canseco"
+      ],
+      "esencia": "Tejido de horas: muda continua donde vida y muerte se trenzan.",
+      "subtitulo": "Del dilema a la metáfora",
+      "en_lectura": "fundido a negro y corte a una escena nueva",
+      "preguntas": [
+        "¿Qué forma ya pidió renacer?"
+      ],
+      "palabras_luz": [
+        "mutacion",
+        "corte",
+        "renacimiento"
+      ],
+      "palabras_sombra": [
+        "negacion del cambio",
+        "miedo literalista"
+      ],
+      "palabras_neutrales": []
+    }
+  ]
+}

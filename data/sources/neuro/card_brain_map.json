@@ -1,0 +1,137 @@
+{
+  "disclaimer": "Mapa simbólico-educativo. Cada carta evoca funciones cerebrales de forma analógica, cruzando Brain Facts (SfN 2018), la neurobiología de la imaginación (Drubach et al.) y las voces de Jodorowsky/Canseco ya cargadas en el ADN. No diagnostica ni prescribe.",
+  "mappings": {
+    "major_00_fool": {
+      "primary": "imagination",
+      "secondary": ["plasticity", "reward"],
+      "rationale": "El Loco abre camino sin mapa: metáfora de predicción e imaginación intrínseca (ensayar un mundo antes de pisarlo).",
+      "pregunta": "¿Qué escena estás inventando antes de viviría?"
+    },
+    "major_01_magician": {
+      "primary": "prefrontal",
+      "secondary": ["motor"],
+      "rationale": "Mesa de herramientas = planificación ejecutiva que convierte intención en gesto (PFC + preparación motora).",
+      "pregunta": "¿Qué herramienta mental estás eligiendo ahora?"
+    },
+    "major_02_high_priestess": {
+      "primary": "hippocampus",
+      "secondary": ["imagination", "temporal"],
+      "rationale": "Saber velado y gestación silenciosa: memoria declarativa + construcción de escenas internas coherentes.",
+      "pregunta": "¿Qué recuerdo o imagen aún no tiene palabras?"
+    },
+    "major_03_empress": {
+      "primary": "hypothalamus",
+      "secondary": ["reward", "plasticity"],
+      "rationale": "Fertilidad y cuerpo que cuida: equilibrio vital y ritmos del organismo (homeóstasis generativa).",
+      "pregunta": "¿Qué ritmo corporal necesitas nutrir?"
+    },
+    "major_04_emperor": {
+      "primary": "prefrontal",
+      "secondary": ["cingulate"],
+      "rationale": "Orden y límites = control ejecutivo que estructura conducta sin necesariamente aplastar emoción.",
+      "pregunta": "¿Tu estructura sostiene o encierra?"
+    },
+    "major_05_hierophant": {
+      "primary": "temporal",
+      "secondary": ["prefrontal"],
+      "rationale": "Tradición viva = semántica compartida y lenguaje ritual que enseña un código a la comunidad.",
+      "pregunta": "¿Qué enseñanza estás transmitiendo de verdad?"
+    },
+    "major_06_lovers": {
+      "primary": "orbitofrontal",
+      "secondary": ["cingulate", "amygdala"],
+      "rationale": "Cruce de valores: circuitos que asignan valencia y detectan conflicto entre opciones afectivas.",
+      "pregunta": "¿Qué valor gana cuando el deseo se divide?"
+    },
+    "major_07_chariot": {
+      "primary": "motor",
+      "secondary": ["cerebellum", "prefrontal"],
+      "rationale": "Dos fuerzas a dirigir: selección e inicio de acción (motor/ganglios) con timing cerebeloso.",
+      "pregunta": "¿Quién lleva las riendas de tus impulsos?"
+    },
+    "major_08_strength": {
+      "primary": "amygdala",
+      "secondary": ["prefrontal", "cingulate"],
+      "rationale": "Coraje sereno: regular la alarma afectiva con presencia prefrontal (mano sobre la melena).",
+      "pregunta": "¿Amasas fuerza bruta o regulación suave?"
+    },
+    "major_09_hermit": {
+      "primary": "hippocampus",
+      "secondary": ["prefrontal", "imagination"],
+      "rationale": "Lámpara interior: búsqueda en memoria y estudio solitario; reelaborar experiencia en soledad fértil.",
+      "pregunta": "¿Qué sabiduría solo se ve con tu propia luz?"
+    },
+    "major_10_wheel_of_fortune": {
+      "primary": "reward",
+      "secondary": ["prefrontal"],
+      "rationale": "Contingencia y giros: aprendizaje por predicción/recompensa; lo aleatorio percibido actualiza expectativas.",
+      "pregunta": "¿Qué patrón de recompensa te está girando?"
+    },
+    "major_11_justice": {
+      "primary": "prefrontal",
+      "secondary": ["orbitofrontal", "cingulate"],
+      "rationale": "Pesar opciones y consecuencias: decisión deliberada y evaluación de fairness cognitiva.",
+      "pregunta": "¿Qué balanza está desequilibrada en ti?"
+    },
+    "major_12_hanged_man": {
+      "primary": "parietal",
+      "secondary": ["imagination", "cingulate"],
+      "rationale": "Invertir el punto de vista: reorganización espacial y simulación mental (Drubach: ensayar sin actuar).",
+      "pregunta": "¿Qué cambia si cuelgas tu mapa habitual?"
+    },
+    "major_13_death": {
+      "primary": "plasticity",
+      "secondary": ["hippocampus", "reward"],
+      "rationale": "Transformación de circuitos: plasticidad como muerte de un mapa viejo y nacimiento de otro.",
+      "pregunta": "¿Qué hábito neural está listo para mudar de forma?"
+    },
+    "major_14_temperance": {
+      "primary": "hypothalamus",
+      "secondary": ["cerebellum", "cingulate"],
+      "rationale": "Mezcla y dosificación: homeóstasis y timing fino; equilibrio entre corrientes opuestas.",
+      "pregunta": "¿Dónde falta mesura entre dos polos?"
+    },
+    "major_15_devil": {
+      "primary": "reward",
+      "secondary": ["amygdala"],
+      "rationale": "Cadena del deseo reiterado: circuitos de refuerzo y alarma afectiva (analogía educativa sobre hábito, no rótulo clínico).",
+      "pregunta": "¿Qué atracción repites aunque ya conoces el nudo?"
+    },
+    "major_16_tower": {
+      "primary": "brainstem",
+      "secondary": ["amygdala", "plasticity"],
+      "rationale": "Choque de alerta: interrupción brusca del estado basal; luego remapeo posible.",
+      "pregunta": "¿Qué estructura interna acaba de temblar?"
+    },
+    "major_17_star": {
+      "primary": "imagination",
+      "secondary": ["occipital", "hypothalamus"],
+      "rationale": "Imagen esperanzada y ensayo interno de renovación; proyección de un paisaje posible tras la tormenta.",
+      "pregunta": "¿Qué escena restauradora imaginas con los sentidos de la mente?"
+    },
+    "major_18_moon": {
+      "primary": "occipital",
+      "secondary": ["amygdala", "imagination"],
+      "rationale": "Percepción ambigua: la visión y lo afectivo se entrelazan; imágenes que no son el objeto «ahí fuera».",
+      "pregunta": "¿Qué miedo pinta sombras sobre lo que ves?"
+    },
+    "major_19_sun": {
+      "primary": "occipital",
+      "secondary": ["reward", "prefrontal"],
+      "rationale": "Claridad perceptual y vitalidad: cuando la escena se ilumina y la valoración se vuelve simple.",
+      "pregunta": "¿Qué queda evidente bajo luz plena?"
+    },
+    "major_20_judgement": {
+      "primary": "temporal",
+      "secondary": ["prefrontal", "cingulate"],
+      "rationale": "Llamada a despertar: evaluación semántica + juicio ejecutivo sobre el propio relato.",
+      "pregunta": "¿Qué voz interna te pide escuchar de nuevo?"
+    },
+    "major_21_world": {
+      "primary": "plasticity",
+      "secondary": ["prefrontal", "imagination", "motor"],
+      "rationale": "Integración de sistemas: el cerebro usa muchas regiones a la vez; danza de un mapa completo.",
+      "pregunta": "¿Qué partes de tu «mapa» aún no bailan juntas?"
+    }
+  }
+}

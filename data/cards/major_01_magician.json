@@ -1,0 +1,272 @@
+{
+  "id": "major_01_magician",
+  "nombre": "El Mago",
+  "nombre_original": "The Magician",
+  "numero": 1,
+  "legacy_filename": "el_mago.png",
+  "elementos": [
+    "aire",
+    "fuego"
+  ],
+  "simbolos": [
+    "mesa",
+    "copa",
+    "espada",
+    "baston",
+    "moneda",
+    "infinito",
+    "serpiente"
+  ],
+  "personajes": [
+    {
+      "tipo": "figura_humana",
+      "cantidad": 1,
+      "movimiento": "invocacion"
+    }
+  ],
+  "direcciones": {
+    "mirada": [
+      "frente"
+    ],
+    "movimiento": [
+      "vertical"
+    ],
+    "orientacion_general": "vertical"
+  },
+  "palabras_clave": {
+    "neutrales": [
+      "voluntad",
+      "habilidad",
+      "recursos",
+      "punto de origen",
+      "mesa de trabajo",
+      "posibilidades"
+    ],
+    "luz": [
+      "manifestacion",
+      "enfoque",
+      "creacion",
+      "comienzo",
+      "eleccion consciente",
+      "potencial",
+      "habilidad",
+      "iniciativa",
+      "herramientas disponibles",
+      "ingenio",
+      "inicio hábil",
+      "mediacion hermetica",
+      "técnica"
+    ],
+    "sombra": [
+      "manipulacion",
+      "engaño",
+      "dispersión",
+      "ilusionismo",
+      "ocultar bajo la mesa",
+      "inmadurez",
+      "juego engañoso",
+      "charlataneria",
+      "distracción"
+    ]
+  },
+  "arquetipos": [
+    "magia_voluntad",
+    "manifestacion",
+    "poder_personal",
+    "iniciar"
+  ],
+  "emociones": [
+    "determinacion",
+    "confianza",
+    "orgullo",
+    "curiosidad",
+    "nerviosismo creativo"
+  ],
+  "etapas_narrativas": [
+    "inicio",
+    "desarrollo"
+  ],
+  "tipo": "arcano_mayor",
+  "palo": null,
+  "mazo": "rider_waite_smith",
+  "imagen": "cartas/el_mago.png",
+  "colores": {
+    "dominantes_rgb": [
+      [
+        252,
+        250,
+        217
+      ],
+      [
+        98,
+        77,
+        45
+      ],
+      [
+        27,
+        18,
+        11
+      ],
+      [
+        180,
+        161,
+        101
+      ],
+      [
+        218,
+        58,
+        75
+      ]
+    ],
+    "dominantes_hex": [
+      "#fcfad9",
+      "#624d2d",
+      "#1b120b",
+      "#b4a165",
+      "#da3a4b"
+    ],
+    "dominantes_lab": [
+      [
+        97.66309084288723,
+        -4.727945506441844,
+        16.09210007055111
+      ],
+      [
+        34.1786257541343,
+        4.330594321785925,
+        22.23777292382846
+      ],
+      [
+        6.23119749454505,
+        2.993267349169826,
+        4.860272823689621
+      ],
+      [
+        66.62212299840533,
+        -1.4823364678735462,
+        33.71743211763374
+      ],
+      [
+        50.03058649611039,
+        62.13014277516432,
+        28.214286441159885
+      ]
+    ],
+    "porcentajes": [
+      0.48573698273994365,
+      0.15237957680363978,
+      0.14017476709756627,
+      0.13172528345489998,
+      0.08998338990395031
+    ],
+    "luminosidad_media": 0.7276708907004703,
+    "saturacion_media": 0.344003664594533,
+    "temperatura_visual": "calida",
+    "histograma_hue_bins": [
+      0.1379360150213042,
+      0.5197515707373438,
+      0.17245612768108612,
+      0.0074384343179027925,
+      0.01119376038131003,
+      0.008521701451577957,
+      0.009099443922871379,
+      0.0024554055029970385,
+      0.003899761681230591,
+      0.0005055246623817432,
+      0.0015165739871452295,
+      0.12522568065284898
+    ]
+  },
+  "numerologia": {
+    "numero": 1,
+    "reduccion": 1
+  },
+  "fuentes": [
+    "tradicion_rws_comparada",
+    "anotacion_laboratorio_v1",
+    "La vía del Tarot — Alejandro Jodorowsky, Marianne Costa",
+    "El tarot: del dilema a la metáfora — Miguel Ángel Díaz Canseco"
+  ],
+  "version": 3,
+  "attributions": {
+    "significados_jodorowsky": [
+      {
+        "value": "Empezar y elegir",
+        "source": "manual",
+        "confidence": 0.85,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_estudio_via_del_tarot"
+      }
+    ],
+    "canseco_metafora": [
+      {
+        "value": "Mesa de herramientas: ilusión hábil o Hermes que abre puertas.",
+        "source": "manual",
+        "confidence": 0.8,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_canseco_dilema_metafora"
+      }
+    ]
+  },
+  "significados": [
+    {
+      "fuente": "La vía del Tarot",
+      "autores": [
+        "Alejandro Jodorowsky",
+        "Marianne Costa"
+      ],
+      "esencia": "Empezar y elegir: la totalidad en potencia sobre la mesa.",
+      "subtitulo": "Empezar y elegir",
+      "en_lectura": "Apunta al primer paso, a elegir entre posibilidades y a usar lo que ya está disponible. Puede verse como aprendiz o como iniciador, según el conjunto.",
+      "preguntas": [
+        "¿Qué estoy eligiendo empezar?",
+        "¿Qué herramientas ya tengo sobre la mesa?"
+      ],
+      "palabras_luz": [
+        "comienzo",
+        "eleccion consciente",
+        "potencial",
+        "habilidad",
+        "iniciativa",
+        "herramientas disponibles"
+      ],
+      "palabras_sombra": [
+        "ilusionismo",
+        "ocultar bajo la mesa",
+        "inmadurez",
+        "juego engañoso"
+      ],
+      "palabras_neutrales": [
+        "punto de origen",
+        "mesa de trabajo",
+        "posibilidades"
+      ]
+    },
+    {
+      "fuente": "El tarot: del dilema a la metáfora",
+      "autores": [
+        "Miguel Ángel Díaz Canseco"
+      ],
+      "esencia": "Mesa de herramientas: ilusión hábil o Hermes que abre puertas.",
+      "subtitulo": "Del dilema a la metáfora",
+      "en_lectura": "primer plano de manos que eligen un objeto y cambian la escena",
+      "preguntas": [
+        "¿Estoy creando o solo distrayendo con trucos?"
+      ],
+      "palabras_luz": [
+        "ingenio",
+        "inicio hábil",
+        "mediacion hermetica",
+        "técnica"
+      ],
+      "palabras_sombra": [
+        "charlataneria",
+        "engaño",
+        "distracción"
+      ],
+      "palabras_neutrales": []
+    }
+  ]
+}

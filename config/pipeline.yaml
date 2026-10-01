@@ -1,0 +1,23 @@
+seed: 42
+color:
+  k: 5
+  resize: 120
+  border_crop_ratio: 0.06
+  exclude_near_white: true
+  near_white_threshold: 245
+  exclude_near_black: false
+  near_black_threshold: 12
+graph:
+  strategy: top_k  # threshold | top_k | mutual_top_k
+  top_k: 4
+  threshold: 0.55
+  mutual_top_k: false
+community_algorithm: louvain
+embedding_provider: tfidf  # tfidf | local | api
+model_version: "1.1.0-ml"
+ml:
+  enabled: true
+  vision_pca_dim: 24
+  graph_embedding_dim: 8
+  text_provider: tfidf  # tfidf | local | api
+  recommend_k: 5

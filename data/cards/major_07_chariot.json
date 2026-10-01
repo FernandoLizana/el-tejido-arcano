@@ -1,0 +1,263 @@
+{
+  "id": "major_07_chariot",
+  "nombre": "El Carro",
+  "nombre_original": "The Chariot",
+  "numero": 7,
+  "legacy_filename": "el_carro.png",
+  "elementos": [
+    "agua"
+  ],
+  "simbolos": [
+    "carro",
+    "esfinge",
+    "armadura",
+    "ciudad",
+    "luna",
+    "estrella"
+  ],
+  "personajes": [
+    {
+      "tipo": "figura_humana",
+      "cantidad": 1,
+      "movimiento": "avance"
+    }
+  ],
+  "direcciones": {
+    "mirada": [
+      "frente"
+    ],
+    "movimiento": [
+      "adelante"
+    ],
+    "orientacion_general": "horizontal"
+  },
+  "palabras_clave": {
+    "neutrales": [
+      "direccion",
+      "movimiento",
+      "voluntad",
+      "vehiculo",
+      "mundo exterior"
+    ],
+    "luz": [
+      "victoria",
+      "disciplina",
+      "foco",
+      "accion",
+      "avance",
+      "voluntad movil",
+      "conquista creativa",
+      "fuerza reunida",
+      "viaje",
+      "dominio",
+      "volicion",
+      "triunfo movil"
+    ],
+    "sombra": [
+      "agresion",
+      "imposicion",
+      "impulso ciego",
+      "precipitacion",
+      "imponer avance",
+      "no escuchar los polos",
+      "tironeo interno"
+    ]
+  },
+  "arquetipos": [
+    "poder_personal",
+    "viaje_heroe",
+    "disciplina",
+    "accion"
+  ],
+  "emociones": [
+    "coraje",
+    "determinacion",
+    "orgullo",
+    "empuje"
+  ],
+  "etapas_narrativas": [
+    "desarrollo",
+    "prueba"
+  ],
+  "tipo": "arcano_mayor",
+  "palo": null,
+  "mazo": "rider_waite_smith",
+  "imagen": "cartas/el_carro.png",
+  "colores": {
+    "dominantes_rgb": [
+      [
+        92,
+        95,
+        75
+      ],
+      [
+        174,
+        167,
+        152
+      ],
+      [
+        19,
+        20,
+        15
+      ],
+      [
+        248,
+        241,
+        189
+      ],
+      [
+        216,
+        209,
+        28
+      ]
+    ],
+    "dominantes_hex": [
+      "#5c5f4b",
+      "#aea798",
+      "#13140f",
+      "#f8f1bd",
+      "#d8d11c"
+    ],
+    "dominantes_lab": [
+      [
+        39.52616114185213,
+        -5.072143608884555,
+        11.079292919958206
+      ],
+      [
+        68.68134652458556,
+        -0.11648467668523566,
+        8.656531683884472
+      ],
+      [
+        6.081446683804895,
+        -1.4327507101731807,
+        2.619389991612675
+      ],
+      [
+        94.54383777660912,
+        -5.6747602368127925,
+        26.026720610367327
+      ],
+      [
+        81.9931951571637,
+        -15.206313685122874,
+        78.62592805646054
+      ]
+    ],
+    "porcentajes": [
+      0.2648401826484018,
+      0.24397611520899193,
+      0.2325957147874956,
+      0.20470670881629785,
+      0.053881278538812784
+    ],
+    "luminosidad_media": 0.5528800181821938,
+    "saturacion_media": 0.32220401406563637,
+    "temperatura_visual": "calida",
+    "histograma_hue_bins": [
+      0.11619248331577099,
+      0.5996487530734106,
+      0.0662451703547594,
+      0.01243414120126449,
+      0.009413417632595716,
+      0.008359676852827538,
+      0.16775553213909378,
+      0.007095187917105726,
+      0.0066736916051984545,
+      0.0009132420091324202,
+      0.0007024938531787847,
+      0.0045662100456621
+    ]
+  },
+  "numerologia": {
+    "numero": 7,
+    "reduccion": 7
+  },
+  "fuentes": [
+    "tradicion_rws_comparada",
+    "anotacion_laboratorio_v1",
+    "La vía del Tarot — Alejandro Jodorowsky, Marianne Costa",
+    "El tarot: del dilema a la metáfora — Miguel Ángel Díaz Canseco"
+  ],
+  "version": 3,
+  "attributions": {
+    "significados_jodorowsky": [
+      {
+        "value": "Acción en el mundo",
+        "source": "manual",
+        "confidence": 0.85,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_estudio_via_del_tarot"
+      }
+    ],
+    "canseco_metafora": [
+      {
+        "value": "Dos corceles: dirigir fuerzas opuestas sin perder el rumbo.",
+        "source": "manual",
+        "confidence": 0.8,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_canseco_dilema_metafora"
+      }
+    ]
+  },
+  "significados": [
+    {
+      "fuente": "La vía del Tarot",
+      "autores": [
+        "Alejandro Jodorowsky",
+        "Marianne Costa"
+      ],
+      "esencia": "Acción en el mundo con fuerza reunida.",
+      "subtitulo": "Acción en el mundo",
+      "en_lectura": "Indica salir al mundo, empujar un proyecto, viajar o cruzar una etapa con decisión.",
+      "preguntas": [
+        "¿Hacia dónde avanzo con todo lo que soy?",
+        "¿Estoy gobernando mis impulsos o ellos a mí?"
+      ],
+      "palabras_luz": [
+        "accion",
+        "avance",
+        "voluntad movil",
+        "conquista creativa",
+        "fuerza reunida",
+        "viaje"
+      ],
+      "palabras_sombra": [
+        "precipitacion",
+        "imponer avance",
+        "no escuchar los polos"
+      ],
+      "palabras_neutrales": [
+        "movimiento",
+        "vehiculo",
+        "mundo exterior"
+      ]
+    },
+    {
+      "fuente": "El tarot: del dilema a la metáfora",
+      "autores": [
+        "Miguel Ángel Díaz Canseco"
+      ],
+      "esencia": "Dos corceles: dirigir fuerzas opuestas sin perder el rumbo.",
+      "subtitulo": "Del dilema a la metáfora",
+      "en_lectura": "travelling hacia adelante; el héroe avanza entre tensiones",
+      "preguntas": [
+        "¿Domino mis impulsos o ellos me arrastran?"
+      ],
+      "palabras_luz": [
+        "dominio",
+        "avance",
+        "volicion",
+        "triunfo movil"
+      ],
+      "palabras_sombra": [
+        "precipitacion",
+        "tironeo interno"
+      ],
+      "palabras_neutrales": []
+    }
+  ]
+}

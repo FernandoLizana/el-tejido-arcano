@@ -1,0 +1,266 @@
+{
+  "id": "major_06_lovers",
+  "nombre": "Los Enamorados",
+  "nombre_original": "The Lovers",
+  "numero": 6,
+  "legacy_filename": "los_enamorados.png",
+  "elementos": [
+    "aire"
+  ],
+  "simbolos": [
+    "angel",
+    "arbol",
+    "serpiente",
+    "nube",
+    "sol",
+    "pareja"
+  ],
+  "personajes": [
+    {
+      "tipo": "figura_angelica",
+      "cantidad": 1,
+      "movimiento": "bendicion"
+    },
+    {
+      "tipo": "pareja",
+      "cantidad": 2,
+      "movimiento": "eleccion"
+    }
+  ],
+  "direcciones": {
+    "mirada": [
+      "arriba",
+      "frente"
+    ],
+    "movimiento": [
+      "vertical"
+    ],
+    "orientacion_general": "vertical"
+  },
+  "palabras_clave": {
+    "neutrales": [
+      "relacion",
+      "eleccion",
+      "valores",
+      "relaciones",
+      "llamado del angel"
+    ],
+    "luz": [
+      "union",
+      "armonia",
+      "compromiso",
+      "eleccion del corazon",
+      "amistad profunda",
+      "ambivalencia lucida",
+      "vinculo",
+      "valores"
+    ],
+    "sombra": [
+      "tentacion",
+      "indecision",
+      "division",
+      "triangulo afectivo",
+      "idealizar al otro",
+      "confusion emocional",
+      "compra de deseos"
+    ]
+  },
+  "arquetipos": [
+    "amor_eleccion",
+    "union",
+    "conexion",
+    "vida_emocional"
+  ],
+  "emociones": [
+    "amor",
+    "deseo",
+    "vulnerabilidad",
+    "duda",
+    "ternura"
+  ],
+  "etapas_narrativas": [
+    "llamada",
+    "desarrollo"
+  ],
+  "tipo": "arcano_mayor",
+  "palo": null,
+  "mazo": "rider_waite_smith",
+  "imagen": "cartas/los_enamorados.png",
+  "colores": {
+    "dominantes_rgb": [
+      [
+        232,
+        230,
+        207
+      ],
+      [
+        97,
+        79,
+        60
+      ],
+      [
+        145,
+        148,
+        141
+      ],
+      [
+        31,
+        21,
+        15
+      ],
+      [
+        219,
+        119,
+        52
+      ]
+    ],
+    "dominantes_hex": [
+      "#e8e6cf",
+      "#614f3c",
+      "#91948d",
+      "#1f150f",
+      "#db7734"
+    ],
+    "dominantes_lab": [
+      [
+        90.89612496944292,
+        -3.20684034767027,
+        11.454090009623963
+      ],
+      [
+        34.923054218886385,
+        4.4636581061015255,
+        14.059321700967942
+      ],
+      [
+        60.8896961541362,
+        -2.4375793900288656,
+        3.3160796669884807
+      ],
+      [
+        7.788028823479802,
+        4.003909327403576,
+        5.2770786831034755
+      ],
+      [
+        60.343017848602685,
+        34.14473905695159,
+        52.152951258048695
+      ]
+    ],
+    "porcentajes": [
+      0.3740869441883554,
+      0.18005815190412028,
+      0.16899510673001913,
+      0.16041415502446635,
+      0.11644564215303879
+    ],
+    "luminosidad_media": 0.6522894357374183,
+    "saturacion_media": 0.3183098726692541,
+    "temperatura_visual": "calida",
+    "histograma_hue_bins": [
+      0.3350117012977803,
+      0.2455854194737962,
+      0.059499326288915674,
+      0.006524359974469897,
+      0.015176228636266933,
+      0.010424792567902987,
+      0.29820580100702077,
+      0.020353166442096303,
+      0.006595276930714134,
+      0.00035458478122118997,
+      0.001205588256152046,
+      0.00106375434366357
+    ]
+  },
+  "numerologia": {
+    "numero": 6,
+    "reduccion": 6
+  },
+  "fuentes": [
+    "tradicion_rws_comparada",
+    "anotacion_laboratorio_v1",
+    "La vía del Tarot — Alejandro Jodorowsky, Marianne Costa",
+    "El tarot: del dilema a la metáfora — Miguel Ángel Díaz Canseco"
+  ],
+  "version": 3,
+  "attributions": {
+    "significados_jodorowsky": [
+      {
+        "value": "Unión, vida emocional",
+        "source": "manual",
+        "confidence": 0.85,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_estudio_via_del_tarot"
+      }
+    ],
+    "canseco_metafora": [
+      {
+        "value": "Cruce de Hércules: virtud y deseo piden una elección.",
+        "source": "manual",
+        "confidence": 0.8,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_canseco_dilema_metafora"
+      }
+    ]
+  },
+  "significados": [
+    {
+      "fuente": "La vía del Tarot",
+      "autores": [
+        "Alejandro Jodorowsky",
+        "Marianne Costa"
+      ],
+      "esencia": "Unión y vida emocional: el Enamorado en singular.",
+      "subtitulo": "Unión, vida emocional",
+      "en_lectura": "Habla de la vida afectiva y de opciones del corazón. Las figuras de la carta muestran ambivalencia: no hay una sola lectura fija.",
+      "preguntas": [
+        "¿Qué relación o valor estoy eligiendo?",
+        "¿Qué parte de mí está enamorada de una posibilidad?"
+      ],
+      "palabras_luz": [
+        "union",
+        "eleccion del corazon",
+        "amistad profunda",
+        "ambivalencia lucida",
+        "vinculo"
+      ],
+      "palabras_sombra": [
+        "indecision",
+        "triangulo afectivo",
+        "idealizar al otro",
+        "confusion emocional"
+      ],
+      "palabras_neutrales": [
+        "relaciones",
+        "valores",
+        "llamado del angel"
+      ]
+    },
+    {
+      "fuente": "El tarot: del dilema a la metáfora",
+      "autores": [
+        "Miguel Ángel Díaz Canseco"
+      ],
+      "esencia": "Cruce de Hércules: virtud y deseo piden una elección.",
+      "subtitulo": "Del dilema a la metáfora",
+      "en_lectura": "dos caminos visuales; el protagonista duda en el cruce",
+      "preguntas": [
+        "¿Qué amor elijo cuando dos caminos me llaman?"
+      ],
+      "palabras_luz": [
+        "eleccion del corazon",
+        "vinculo",
+        "valores"
+      ],
+      "palabras_sombra": [
+        "tentacion",
+        "indecision",
+        "compra de deseos"
+      ],
+      "palabras_neutrales": []
+    }
+  ]
+}

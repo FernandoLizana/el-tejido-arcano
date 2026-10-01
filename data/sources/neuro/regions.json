@@ -1,0 +1,152 @@
+{
+  "source_notes": {
+    "brain_facts": {
+      "title": "Brain Facts: A Primer on the Brain and Nervous System (8th ed., 2018)",
+      "authors": ["Society for Neuroscience"],
+      "note": "Paráfrasis educativa de conceptos anatómicos y de circuitos. No reproducimos el libro."
+    },
+    "drubach_imagination": {
+      "title": "Neurobiología de la imaginación (Rev Neurol 2007)",
+      "authors": ["D. Drubach et al."],
+      "note": "Paráfrasis: imaginación como manipulación de información intrínseca; vínculo con hipocampo, memoria de trabajo e imágenes motoras."
+    },
+    "ethics": "Analogía poético-educativa entre arquetipos del tarot y regiones cerebrales. No es diagnóstico médico, mapa anatómico clínico ni terapia."
+  },
+  "regions": [
+    {
+      "id": "prefrontal",
+      "nombre": "Corteza prefrontal",
+      "sistema": "Pensar · planear · decidir",
+      "color": "#d4af6a",
+      "xyz": [0.55, 0.75, 0.35],
+      "hecho_breve": "Ayuda a planificar, mantener metas y regular impulsos; Brain Facts la asocia con pensamiento, decisión y lenguaje ejecutivo.",
+      "detalle": "La corteza prefrontal sostiene funciones de alto nivel: trabajar con ideas en la mente, evaluar consecuencias y dirigir la conducta hacia un plan. En esta analogía es el «taller del Magician/Emperor/Justice»."
+    },
+    {
+      "id": "orbitofrontal",
+      "nombre": "Córtex orbitario / valoración",
+      "sistema": "Valor · deseo · elección",
+      "color": "#e0a87a",
+      "xyz": [0.45, 0.55, -0.15],
+      "hecho_breve": "Participa en asignar valor emocional a opciones; las emociones actúan como juicios que orientan la respuesta (Brain Facts, emoción y decisión).",
+      "detalle": "Aquí la metáfora es la balanza del deseo: qué camino «vale» más cuando dos amores o dos valores rivalizan."
+    },
+    {
+      "id": "cingulate",
+      "nombre": "Cíngulo anterior",
+      "sistema": "Conflicto · atención · vínculo",
+      "color": "#c9a06a",
+      "xyz": [0.05, 0.35, 0.25],
+      "hecho_breve": "Se implica en detectar conflicto, ajustar atención y mediar aspectos afectivos del control.",
+      "detalle": "En el mapa tarot–cerebro marca la tensión entre rutas posibles: el instante en que hay que elegir."
+    },
+    {
+      "id": "motor",
+      "nombre": "Córtex motor y ganglios basales",
+      "sistema": "Movimiento · voluntad en acción",
+      "color": "#c47a5a",
+      "xyz": [0.25, 0.55, 0.55],
+      "hecho_breve": "Circuitos motores envían órdenes a músculos; los ganglios basales ayudan a seleccionar e iniciar acciones (Brain Facts, Movement).",
+      "detalle": "También las imágenes mentales del movimiento reclutan redes motoras (Drubach): ensayar el viaje antes de dar el paso."
+    },
+    {
+      "id": "cerebellum",
+      "nombre": "Cerebelo",
+      "sistema": "Timing · equilibrio fino",
+      "color": "#a67c64",
+      "xyz": [-0.35, -0.75, -0.35],
+      "hecho_breve": "Afinación del movimiento, timing y aprendizaje motor; amplia conectividad con la corteza.",
+      "detalle": "Metáfora de pulso y mesura: no solo fuerza, sino dosificación."
+    },
+    {
+      "id": "parietal",
+      "nombre": "Lóbulo parietal",
+      "sistema": "Espacio · punto de vista",
+      "color": "#8eb3c9",
+      "xyz": [-0.15, 0.15, 0.65],
+      "hecho_breve": "Integra sentidos y espacio corporal; en imagen mental, áreas parietales participan en simulación espacial.",
+      "detalle": "Ver el mundo «colgado» o desde otro ángulo: reorganizar el mapa del cuerpo y la escena."
+    },
+    {
+      "id": "occipital",
+      "nombre": "Lóbulo occipital (visión)",
+      "sistema": "Ver · iluminar",
+      "color": "#6a9e98",
+      "xyz": [-0.75, -0.05, 0.15],
+      "hecho_breve": "Procesa la información visual; gran parte de la corteza está dedicada a la vista (Brain Facts / Drubach).",
+      "detalle": "Claridad, luz y escena visible: cuando la imagen deja de ser ambigua."
+    },
+    {
+      "id": "temporal",
+      "nombre": "Lóbulo temporal (lenguaje y semántica)",
+      "sistema": "Significado · relato · rostro",
+      "color": "#7f8fab",
+      "xyz": [0.15, -0.35, -0.45],
+      "hecho_breve": "Participa en reconocimiento de objetos/caras y memoria semántica; redes del lenguaje construyen símbolos compartidos.",
+      "detalle": "Aquí habita la transmisión de un «código» cultural: ritual, palabra, enseñanza."
+    },
+    {
+      "id": "hippocampus",
+      "nombre": "Hipocampo",
+      "sistema": "Memoria · escena imaginada",
+      "color": "#9bc4b0",
+      "xyz": [0.05, -0.15, -0.25],
+      "hecho_breve": "Clave para memoria declarativa y para construir escenas coherentes al imaginar (estudios citados por Drubach/Hassabis).",
+      "detalle": "Sin un «escenario» espacial, la imaginación se fragmenta: el sabio interior necesita un mapa vivo del pasado."
+    },
+    {
+      "id": "amygdala",
+      "nombre": "Amígdala",
+      "sistema": "Alarma · afecto rápido",
+      "color": "#b85c4a",
+      "xyz": [0.2, 0.0, -0.35],
+      "hecho_breve": "Modula emociones intensas (p. ej. miedo) y ayuda a etiquetar recuerdos con carga afectiva (Brain Facts).",
+      "detalle": "El león interior: no es el villano del cerebro, es el sistema de relevancia rápida; el arquetipo pregunta cómo se domestica."
+    },
+    {
+      "id": "hypothalamus",
+      "nombre": "Hipotálamo",
+      "sistema": "Cuerpo · equilibrio vital",
+      "color": "#c9a08a",
+      "xyz": [0.0, 0.05, -0.55],
+      "hecho_breve": "Supervisa equilibrio interno (hambre, sed, temperatura, ritmos) y conecta con sistemas hormonales (Brain Facts, Body in Balance).",
+      "detalle": "Fertilidad, cuidado y «jardín del cuerpo»: la Empress como metáfora de homeóstasis generativa."
+    },
+    {
+      "id": "reward",
+      "nombre": "Circuitos de recompensa",
+      "sistema": "Dopamina · hábito · azar percibido",
+      "color": "#e0c07a",
+      "xyz": [0.1, 0.25, -0.05],
+      "hecho_breve": "Aprendizaje por recompensa y predicción; Brain Facts dedica capítulos a reward, decisión y adicciones como circuitos que se refuerzan.",
+      "detalle": "Rueda y atracción: lo que «tira» de la atención puede volverse hábito. La analogía invita a observar, no a patologizar."
+    },
+    {
+      "id": "brainstem",
+      "nombre": "Tronco encefálico / alerta",
+      "sistema": "Vigilancia · choque · ritmos básicos",
+      "color": "#7a6a68",
+      "xyz": [-0.05, -0.55, -0.65],
+      "hecho_breve": "Sostiene funciones vitales y estados de alerta; cambios bruscos del estado corporal atraviesan estas vías.",
+      "detalle": "El rayo de la Torre como metáfora de interrupción del equilibrio habitual — reflexiva, no clínica."
+    },
+    {
+      "id": "imagination",
+      "nombre": "Redes de imaginación",
+      "sistema": "Sentidos de la mente",
+      "color": "#b089c9",
+      "xyz": [-0.25, 0.45, 0.05],
+      "hecho_breve": "Drubach define imaginación como manipular información generada desde dentro para «percibir» con los sentidos de la mente; recluta percepción, memoria de trabajo e imágenes motoras.",
+      "detalle": "El Loco y la estrella narrativa: ensayar mundos posibles antes de vivirlos. El cerebro predice combinando memoria, emoción e imaginación (Brain Facts)."
+    },
+    {
+      "id": "plasticity",
+      "nombre": "Plasticidad e integración",
+      "sistema": "Cambio · remapeo · totalidad",
+      "color": "#a8b5a2",
+      "xyz": [-0.4, 0.2, 0.4],
+      "hecho_breve": "La plasticidad sináptica permite que la experiencia reconfigure circuitos; el cerebro usa muchas regiones a la vez (Brain Facts: no usamos «solo el 10%»).",
+      "detalle": "Muerte/renovación y Mundo: soltar un mapa neural viejo para tejer uno más amplio."
+    }
+  ]
+}

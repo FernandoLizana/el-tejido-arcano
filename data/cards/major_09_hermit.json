@@ -1,0 +1,259 @@
+{
+  "id": "major_09_hermit",
+  "nombre": "El Ermitaño",
+  "nombre_original": "The Hermit",
+  "numero": 9,
+  "legacy_filename": "el_ermitanio.png",
+  "elementos": [
+    "tierra"
+  ],
+  "simbolos": [
+    "linterna",
+    "baston",
+    "montana",
+    "capa",
+    "nieve"
+  ],
+  "personajes": [
+    {
+      "tipo": "anciano",
+      "cantidad": 1,
+      "movimiento": "ascenso"
+    }
+  ],
+  "direcciones": {
+    "mirada": [
+      "abajo"
+    ],
+    "movimiento": [
+      "ascendente"
+    ],
+    "orientacion_general": "vertical"
+  },
+  "palabras_clave": {
+    "neutrales": [
+      "soledad",
+      "busqueda",
+      "guia",
+      "soledad fertil",
+      "lampara",
+      "paso a lo desconocido"
+    ],
+    "luz": [
+      "sabiduria",
+      "introspeccion",
+      "claridad",
+      "busqueda",
+      "guia interior",
+      "tránsito consciente",
+      "lucidez",
+      "revelacion interior",
+      "estudio",
+      "soledad fertil"
+    ],
+    "sombra": [
+      "aislamiento",
+      "retiro excesivo",
+      "frialdad",
+      "padre ausente",
+      "crisis sin apoyo",
+      "desconfianza del mundo"
+    ]
+  },
+  "arquetipos": [
+    "busqueda_interior",
+    "sabiduria",
+    "maestro_interior",
+    "crisis_iniciatica"
+  ],
+  "emociones": [
+    "soledad",
+    "serenidad",
+    "humildad",
+    "melancolia lucida"
+  ],
+  "etapas_narrativas": [
+    "umbrales",
+    "revelacion"
+  ],
+  "tipo": "arcano_mayor",
+  "palo": null,
+  "mazo": "rider_waite_smith",
+  "imagen": "cartas/el_ermitanio.png",
+  "colores": {
+    "dominantes_rgb": [
+      [
+        43,
+        113,
+        164
+      ],
+      [
+        114,
+        166,
+        199
+      ],
+      [
+        10,
+        13,
+        14
+      ],
+      [
+        55,
+        74,
+        78
+      ],
+      [
+        209,
+        192,
+        44
+      ]
+    ],
+    "dominantes_hex": [
+      "#2b71a4",
+      "#72a6c7",
+      "#0a0d0e",
+      "#374a4e",
+      "#d1c02c"
+    ],
+    "dominantes_lab": [
+      [
+        45.63781343027131,
+        -4.163322883129483,
+        -33.661587701488614
+      ],
+      [
+        65.7263466312169,
+        -8.53622676066651,
+        -22.278097825987707
+      ],
+      [
+        3.469341751385663,
+        -0.684447621767656,
+        -0.7576151864013003
+      ],
+      [
+        30.058195103010775,
+        -6.322461433450888,
+        -4.80767577162311
+      ],
+      [
+        76.94386936033736,
+        -9.195230806474886,
+        70.28716800129031
+      ]
+    ],
+    "porcentajes": [
+      0.36016390027085216,
+      0.3587749149246475,
+      0.13077297034516286,
+      0.12146676852559206,
+      0.028821445933745398
+    ],
+    "luminosidad_media": 0.584346407498342,
+    "saturacion_media": 0.5444273519343447,
+    "temperatura_visual": "fria",
+    "histograma_hue_bins": [
+      0.06264323911382737,
+      0.034030140982012645,
+      0.009445100354191265,
+      0.0005555941384818391,
+      0.0011111882769636783,
+      0.0010417390096534485,
+      0.8720050003472466,
+      0.014792693937078967,
+      0.004166956038613794,
+      6.944926731022989e-05,
+      0.00013889853462045978,
+      0.0
+    ]
+  },
+  "numerologia": {
+    "numero": 9,
+    "reduccion": 9
+  },
+  "fuentes": [
+    "tradicion_rws_comparada",
+    "anotacion_laboratorio_v1",
+    "La vía del Tarot — Alejandro Jodorowsky, Marianne Costa",
+    "El tarot: del dilema a la metáfora — Miguel Ángel Díaz Canseco"
+  ],
+  "version": 3,
+  "attributions": {
+    "significados_jodorowsky": [
+      {
+        "value": "Crisis, tránsito, sabiduría",
+        "source": "manual",
+        "confidence": 0.85,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_estudio_via_del_tarot"
+      }
+    ],
+    "canseco_metafora": [
+      {
+        "value": "Carruaje filosófico de cuatro ruedas: experiencia, estudio, raciocinio, lectura.",
+        "source": "manual",
+        "confidence": 0.8,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_canseco_dilema_metafora"
+      }
+    ]
+  },
+  "significados": [
+    {
+      "fuente": "La vía del Tarot",
+      "autores": [
+        "Alejandro Jodorowsky",
+        "Marianne Costa"
+      ],
+      "esencia": "Crisis, tránsito y sabiduría de la lámpara en la noche.",
+      "subtitulo": "Crisis, tránsito, sabiduría",
+      "en_lectura": "Marca un retiro, una crisis de sentido o un guía silencioso. A diferencia del Papa, no sabes del todo adónde te lleva.",
+      "preguntas": [
+        "¿Qué sabiduría estoy buscando en la oscuridad?",
+        "¿Qué dejo atrás sin saber aún adónde voy?"
+      ],
+      "palabras_luz": [
+        "sabiduria",
+        "busqueda",
+        "guia interior",
+        "tránsito consciente",
+        "lucidez"
+      ],
+      "palabras_sombra": [
+        "aislamiento",
+        "padre ausente",
+        "frialdad",
+        "crisis sin apoyo"
+      ],
+      "palabras_neutrales": [
+        "soledad fertil",
+        "lampara",
+        "paso a lo desconocido"
+      ]
+    },
+    {
+      "fuente": "El tarot: del dilema a la metáfora",
+      "autores": [
+        "Miguel Ángel Díaz Canseco"
+      ],
+      "esencia": "Carruaje filosófico de cuatro ruedas: experiencia, estudio, raciocinio, lectura.",
+      "subtitulo": "Del dilema a la metáfora",
+      "en_lectura": "noche; una luz pequeña avanza por un camino estrecho",
+      "preguntas": [
+        "¿Qué sabiduría puedo cargar solo, con la lámpara?"
+      ],
+      "palabras_luz": [
+        "revelacion interior",
+        "estudio",
+        "soledad fertil"
+      ],
+      "palabras_sombra": [
+        "aislamiento",
+        "desconfianza del mundo"
+      ],
+      "palabras_neutrales": []
+    }
+  ]
+}

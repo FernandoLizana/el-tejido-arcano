@@ -1,0 +1,265 @@
+{
+  "id": "major_18_moon",
+  "nombre": "La Luna",
+  "nombre_original": "The Moon",
+  "numero": 18,
+  "legacy_filename": "la_luna.png",
+  "elementos": [
+    "agua"
+  ],
+  "simbolos": [
+    "luna",
+    "perro",
+    "lobo",
+    "cangrejo",
+    "camino",
+    "torres"
+  ],
+  "personajes": [
+    {
+      "tipo": "animal",
+      "cantidad": 3,
+      "movimiento": "aullido"
+    }
+  ],
+  "direcciones": {
+    "mirada": [
+      "luna"
+    ],
+    "movimiento": [
+      "adelante"
+    ],
+    "orientacion_general": "vertical"
+  },
+  "palabras_clave": {
+    "neutrales": [
+      "inconsciente",
+      "ilusion",
+      "ciclo",
+      "madre arquetipica",
+      "reflejos",
+      "aullidos",
+      "camino entre torres"
+    ],
+    "luz": [
+      "intuicion",
+      "imaginacion",
+      "viaje nocturno",
+      "receptividad",
+      "nutricion lunar",
+      "profundidad animica",
+      "intuicion nocturna",
+      "peregrinaje anima"
+    ],
+    "sombra": [
+      "confusion",
+      "miedo",
+      "engaño",
+      "miedo nocturno",
+      "ilusiones",
+      "dependencia emocional",
+      "terrores suaves"
+    ]
+  },
+  "arquetipos": [
+    "misterio",
+    "sombra",
+    "busqueda_interior",
+    "madre",
+    "luna",
+    "receptividad",
+    "inconsciente"
+  ],
+  "emociones": [
+    "miedo",
+    "ansiedad",
+    "fascinacion",
+    "melancolia",
+    "temor suave",
+    "nostalgia"
+  ],
+  "etapas_narrativas": [
+    "umbrales",
+    "prueba"
+  ],
+  "tipo": "arcano_mayor",
+  "palo": null,
+  "mazo": "rider_waite_smith",
+  "imagen": "cartas/la_luna.png",
+  "colores": {
+    "dominantes_rgb": [
+      [
+        41,
+        111,
+        162
+      ],
+      [
+        201,
+        195,
+        56
+      ],
+      [
+        119,
+        120,
+        53
+      ],
+      [
+        38,
+        47,
+        42
+      ],
+      [
+        193,
+        190,
+        183
+      ]
+    ],
+    "dominantes_hex": [
+      "#296fa2",
+      "#c9c338",
+      "#777835",
+      "#262f2a",
+      "#c1beb7"
+    ],
+    "dominantes_lab": [
+      [
+        44.86788073325285,
+        -3.9693821584734224,
+        -33.70006038094333
+      ],
+      [
+        77.12198680537409,
+        -13.668570612674735,
+        66.31356064192944
+      ],
+      [
+        49.02242752437756,
+        -10.264805331320625,
+        36.09103695515763
+      ],
+      [
+        18.418683136006713,
+        -5.138877210071335,
+        1.9233881882021242
+      ],
+      [
+        77.0311264076891,
+        -0.20932615389457343,
+        3.8992363050457834
+      ]
+    ],
+    "porcentajes": [
+      0.4124872057318321,
+      0.17242736792378552,
+      0.16526257774978348,
+      0.14920085032674593,
+      0.10062199826785292
+    ],
+    "luminosidad_media": 0.6039592374230222,
+    "saturacion_media": 0.6263623542572407,
+    "temperatura_visual": "neutra",
+    "histograma_hue_bins": [
+      0.06708133217856861,
+      0.21455003543028106,
+      0.20376348319029997,
+      0.0030706243602865915,
+      0.0033855601921108577,
+      0.001889614990945595,
+      0.4920872372254153,
+      0.009920478702464375,
+      0.0033855601921108577,
+      0.0001574679159121329,
+      0.00023620187386819938,
+      0.00047240374773639877
+    ]
+  },
+  "numerologia": {
+    "numero": 18,
+    "reduccion": 9
+  },
+  "fuentes": [
+    "tradicion_rws_comparada",
+    "anotacion_laboratorio_v1",
+    "La vía del Tarot — Alejandro Jodorowsky, Marianne Costa",
+    "El tarot: del dilema a la metáfora — Miguel Ángel Díaz Canseco"
+  ],
+  "version": 3,
+  "attributions": {
+    "significados_jodorowsky": [
+      {
+        "value": "Potencia femenina receptiva",
+        "source": "manual",
+        "confidence": 0.85,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_estudio_via_del_tarot"
+      }
+    ],
+    "canseco_metafora": [
+      {
+        "value": "Camino entre perros del día y la noche: fidelidad, miedo y sueño.",
+        "source": "manual",
+        "confidence": 0.8,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_canseco_dilema_metafora"
+      }
+    ]
+  },
+  "significados": [
+    {
+      "fuente": "La vía del Tarot",
+      "autores": [
+        "Alejandro Jodorowsky",
+        "Marianne Costa"
+      ],
+      "esencia": "Potencia femenina receptiva y el gran arquetipo materno.",
+      "subtitulo": "Potencia femenina receptiva",
+      "en_lectura": "Invita a escuchar lo nocturno, lo intuitivo y lo maternal. Puede señalar miedos o una gran fuerza receptiva.",
+      "preguntas": [
+        "¿Qué está nutriendo mi lado receptivo?",
+        "¿Qué imagen maternal me atraviesa?"
+      ],
+      "palabras_luz": [
+        "intuicion",
+        "receptividad",
+        "imaginacion",
+        "nutricion lunar",
+        "profundidad animica"
+      ],
+      "palabras_sombra": [
+        "confusion",
+        "miedo nocturno",
+        "ilusiones",
+        "dependencia emocional"
+      ],
+      "palabras_neutrales": [
+        "madre arquetipica",
+        "reflejos",
+        "aullidos",
+        "camino entre torres"
+      ]
+    },
+    {
+      "fuente": "El tarot: del dilema a la metáfora",
+      "autores": [
+        "Miguel Ángel Díaz Canseco"
+      ],
+      "esencia": "Camino entre perros del día y la noche: fidelidad, miedo y sueño.",
+      "subtitulo": "Del dilema a la metáfora",
+      "en_lectura": "neblina azul; aullidos y un camino entre torres",
+      "preguntas": [
+        "¿Qué ilusión me guía y cuál me muerde?"
+      ],
+      "palabras_luz": [
+        "intuicion nocturna",
+        "peregrinaje anima"
+      ],
+      "palabras_sombra": [
+        "confusion",
+        "terrores suaves"
+      ],
+      "palabras_neutrales": []
+    }
+  ]
+}

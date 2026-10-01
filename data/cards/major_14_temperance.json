@@ -1,0 +1,264 @@
+{
+  "id": "major_14_temperance",
+  "nombre": "La Templanza",
+  "nombre_original": "Temperance",
+  "numero": 14,
+  "legacy_filename": "la_templanza.png",
+  "elementos": [
+    "fuego",
+    "agua"
+  ],
+  "simbolos": [
+    "angel",
+    "copa_doble",
+    "agua",
+    "camino",
+    "iris",
+    "sol"
+  ],
+  "personajes": [
+    {
+      "tipo": "figura_angelica",
+      "cantidad": 1,
+      "movimiento": "vertido"
+    }
+  ],
+  "direcciones": {
+    "mirada": [
+      "abajo"
+    ],
+    "movimiento": [
+      "circular"
+    ],
+    "orientacion_general": "vertical"
+  },
+  "palabras_clave": {
+    "neutrales": [
+      "mezcla",
+      "moderacion",
+      "flujo",
+      "angel",
+      "flujo entre vasos",
+      "polos reconciliados"
+    ],
+    "luz": [
+      "equilibrio",
+      "sanacion",
+      "paciencia",
+      "curacion",
+      "circulacion",
+      "proteccion",
+      "alquimia suave",
+      "mezcla justa",
+      "cuidado",
+      "moderacion",
+      "renacimiento fluido"
+    ],
+    "sombra": [
+      "indecision",
+      "dilucion",
+      "evitacion",
+      "evitar el conflicto",
+      "diluir demasiado",
+      "sobreproteger"
+    ]
+  },
+  "arquetipos": [
+    "templanza_alquimia",
+    "equilibrio",
+    "integracion",
+    "sanacion",
+    "circulacion"
+  ],
+  "emociones": [
+    "calma",
+    "paz",
+    "esperanza",
+    "cuidado",
+    "esperanza suave"
+  ],
+  "etapas_narrativas": [
+    "integracion",
+    "desarrollo"
+  ],
+  "tipo": "arcano_mayor",
+  "palo": null,
+  "mazo": "rider_waite_smith",
+  "imagen": "cartas/la_templanza.png",
+  "colores": {
+    "dominantes_rgb": [
+      [
+        221,
+        223,
+        213
+      ],
+      [
+        102,
+        86,
+        48
+      ],
+      [
+        35,
+        28,
+        16
+      ],
+      [
+        143,
+        147,
+        144
+      ],
+      [
+        195,
+        168,
+        52
+      ]
+    ],
+    "dominantes_hex": [
+      "#dddfd5",
+      "#665630",
+      "#231c10",
+      "#8f9390",
+      "#c3a834"
+    ],
+    "dominantes_lab": [
+      [
+        88.4246650149772,
+        -2.4443356202838995,
+        4.657773383840436
+      ],
+      [
+        37.28791941170284,
+        1.0510359529374569,
+        24.43466361714436
+      ],
+      [
+        10.742692844319333,
+        1.2190982018640828,
+        9.034296952239934
+      ],
+      [
+        60.53425227499035,
+        -2.040860036137959,
+        1.0773043557838813
+      ],
+      [
+        69.36778630342545,
+        -2.4547163172600195,
+        60.110892563851934
+      ]
+    ],
+    "porcentajes": [
+      0.2885335638144627,
+      0.25799481417458947,
+      0.20123883607029674,
+      0.13742437337942956,
+      0.11480841256122155
+    ],
+    "luminosidad_media": 0.5786491433219787,
+    "saturacion_media": 0.3905095824232761,
+    "temperatura_visual": "calida",
+    "histograma_hue_bins": [
+      0.26231633535004323,
+      0.2850763468740997,
+      0.22284644194756556,
+      0.005978104292711034,
+      0.009147219821377124,
+      0.00424949582252953,
+      0.17963123019302796,
+      0.011307980409104005,
+      0.012604436761740133,
+      0.0016565831172572747,
+      0.002016709881878421,
+      0.00316911552866609
+    ]
+  },
+  "numerologia": {
+    "numero": 14,
+    "reduccion": 5
+  },
+  "fuentes": [
+    "tradicion_rws_comparada",
+    "anotacion_laboratorio_v1",
+    "La vía del Tarot — Alejandro Jodorowsky, Marianne Costa",
+    "El tarot: del dilema a la metáfora — Miguel Ángel Díaz Canseco"
+  ],
+  "version": 3,
+  "attributions": {
+    "significados_jodorowsky": [
+      {
+        "value": "Protección, circulación, curación",
+        "source": "manual",
+        "confidence": 0.85,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_estudio_via_del_tarot"
+      }
+    ],
+    "canseco_metafora": [
+      {
+        "value": "Trasvase del alma: reordenar el flujo después del corte.",
+        "source": "manual",
+        "confidence": 0.8,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_canseco_dilema_metafora"
+      }
+    ]
+  },
+  "significados": [
+    {
+      "fuente": "La vía del Tarot",
+      "autores": [
+        "Alejandro Jodorowsky",
+        "Marianne Costa"
+      ],
+      "esencia": "Protección, circulación y curación después del corte.",
+      "subtitulo": "Protección, circulación, curación",
+      "en_lectura": "Tras una transformación intensa, invita a la dosis justa, a reconciliar polos y a dejar que la vida circule.",
+      "preguntas": [
+        "¿Qué necesita circular para sanar?",
+        "¿Cómo protejo el proceso sin detenerlo?"
+      ],
+      "palabras_luz": [
+        "curacion",
+        "circulacion",
+        "proteccion",
+        "alquimia suave",
+        "mezcla justa",
+        "cuidado"
+      ],
+      "palabras_sombra": [
+        "evitar el conflicto",
+        "diluir demasiado",
+        "sobreproteger"
+      ],
+      "palabras_neutrales": [
+        "angel",
+        "flujo entre vasos",
+        "polos reconciliados"
+      ]
+    },
+    {
+      "fuente": "El tarot: del dilema a la metáfora",
+      "autores": [
+        "Miguel Ángel Díaz Canseco"
+      ],
+      "esencia": "Trasvase del alma: reordenar el flujo después del corte.",
+      "subtitulo": "Del dilema a la metáfora",
+      "en_lectura": "fundido largo; dos líquidos se encuentran en un vaso",
+      "preguntas": [
+        "¿Qué mezclar con medida para sanar?"
+      ],
+      "palabras_luz": [
+        "moderacion",
+        "alquimia suave",
+        "renacimiento fluido"
+      ],
+      "palabras_sombra": [
+        "dilucion",
+        "evitar el conflicto"
+      ],
+      "palabras_neutrales": []
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "timestamp": "2026-07-14T03:24:47.142601+00:00",
+  "duration_sec": 4.436,
+  "seed": 42,
+  "pipeline": {
+    "seed": 42,
+    "color": {
+      "k": 5,
+      "resize": 120,
+      "border_crop_ratio": 0.06,
+      "exclude_near_white": true,
+      "near_white_threshold": 245,
+      "exclude_near_black": false,
+      "near_black_threshold": 12
+    },
+    "graph": {
+      "strategy": "top_k",
+      "top_k": 4,
+      "threshold": 0.55,
+      "mutual_top_k": false
+    },
+    "community_algorithm": "louvain",
+    "embedding_provider": "tfidf",
+    "model_version": "1.0.0-iter1"
+  },
+  "cards_hash": "44254dea8a741df4470ce40876ff5e30527886f0ee2e7cee2a6d1824cabb8ffa",
+  "summary": {
+    "color": {
+      "nodes": 22,
+      "edges": 60,
+      "density": 0.2597402597402597,
+      "communities": 4
+    },
+    "symbols": {
+      "nodes": 22,
+      "edges": 60,
+      "density": 0.2597402597402597,
+      "communities": 5
+    },
+    "semantic": {
+      "nodes": 22,
+      "edges": 56,
+      "density": 0.24242424242424243,
+      "communities": 5
+    },
+    "archetypes": {
+      "nodes": 22,
+      "edges": 61,
+      "density": 0.26406926406926406,
+      "communities": 7
+    },
+    "narrative": {
+      "nodes": 22,
+      "edges": 67,
+      "density": 0.29004329004329005,
+      "communities": 4
+    },
+    "combined": {
+      "nodes": 22,
+      "edges": 57,
+      "density": 0.24675324675324675,
+      "communities": 3
+    }
+  },
+  "n_cards": 22,
+  "model_version": "1.0.0-iter1"
+}

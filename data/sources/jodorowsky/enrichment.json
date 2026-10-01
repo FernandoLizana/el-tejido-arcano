@@ -1,0 +1,252 @@
+{
+  "source": {
+    "title": "La vía del Tarot",
+    "authors": ["Alejandro Jodorowsky", "Marianne Costa"],
+    "publisher": "Grijalbo",
+    "note": "Enriquecimiento para estudio simbólico. Paráfrasis y palabras clave atribuibles a la lectura del libro; no sustituye la obra original. El Tejido Arcano no reproduce el texto completo."
+  },
+  "cards": {
+    "major_00_fool": {
+      "esencia": "Libertad y gran aporte de energía sin número ni límite previo.",
+      "subtitulo_libro": "Libertad, gran aporte de energía",
+      "luz": ["libertad", "energia creativa", "apertura ilimitada", "impulso esencial", "renuncia a demandas", "flujo vital"],
+      "sombra": ["huida", "dispersion", "perder de vista el rumbo", "energia sin contenedor", "evasión"],
+      "neutras": ["inicio sin numero", "movimiento", "tránsito", "liberacion"],
+      "arquetipos": ["inocencia", "viaje_heroe", "liberacion", "energia_primordial"],
+      "emociones": ["entusiasmo", "libertad", "inquietud", "alivio"],
+      "preguntas": ["¿De qué me estoy liberando?", "¿Cómo fluye mi energía ahora?"],
+      "en_lectura": "Puede sugerir un empujón vital, un cambio de lugar o relación, o preguntarse hacia dónde va la energía. Vista con cuidado, invita a no perder de vista el rumbo mientras se libera lo estrecho."
+    },
+    "major_01_magician": {
+      "esencia": "Empezar y elegir: la totalidad en potencia sobre la mesa.",
+      "subtitulo_libro": "Empezar y elegir",
+      "luz": ["comienzo", "eleccion consciente", "potencial", "habilidad", "iniciativa", "herramientas disponibles"],
+      "sombra": ["ilusionismo", "ocultar bajo la mesa", "inmadurez", "juego engañoso"],
+      "neutras": ["punto de origen", "mesa de trabajo", "posibilidades"],
+      "arquetipos": ["magia_voluntad", "manifestacion", "iniciar"],
+      "emociones": ["curiosidad", "confianza", "nerviosismo creativo"],
+      "preguntas": ["¿Qué estoy eligiendo empezar?", "¿Qué herramientas ya tengo sobre la mesa?"],
+      "en_lectura": "Apunta al primer paso, a elegir entre posibilidades y a usar lo que ya está disponible. Puede verse como aprendiz o como iniciador, según el conjunto."
+    },
+    "major_02_high_priestess": {
+      "esencia": "Gestación y acumulación silenciosa antes de mostrarse.",
+      "subtitulo_libro": "Gestación, acumulación",
+      "luz": ["gestacion", "paciencia", "acumulacion interior", "escucha", "sabiduria receptiva", "misterio fecundo"],
+      "sombra": ["retraso", "ocultamiento excesivo", "pasividad", "secreto que aísla"],
+      "neutras": ["dualidad como valor propio", "interioridad", "libro cerrado"],
+      "arquetipos": ["misterio", "gestacion", "maestro_interior"],
+      "emociones": ["calma", "intuicion", "espera"],
+      "preguntas": ["¿Qué estoy gestando aún sin mostrar?", "¿Qué necesito acumular antes de actuar?"],
+      "en_lectura": "Sugiere un proceso interno, estudiar, esperar o guardar. La toma de conciencia pasa también por el cuerpo y lo silencioso."
+    },
+    "major_03_empress": {
+      "esencia": "Estallido creativo y expresión sin finalidad rígida.",
+      "subtitulo_libro": "Estallido creativo, expresión",
+      "luz": ["creatividad", "expresion", "fecundidad", "nacimiento perpetuo", "belleza vital", "expansion"],
+      "sombra": ["dispersion creativa", "exceso sin forma", "inmadurez expresiva"],
+      "neutras": ["estallido", "naturaleza", "verde de la tierra"],
+      "arquetipos": ["fertilidad", "creacion", "expresion"],
+      "emociones": ["alegria", "deseo de crear", "vitalidad"],
+      "preguntas": ["¿Qué quiere nacer a través de mí?", "¿Dónde necesito expresarme sin controlarlo todo?"],
+      "en_lectura": "Puede hablar de creatividad, fertilidad de ideas o de una energía que irrumpe. No exige un plan perfecto: exige dejar salir la forma."
+    },
+    "major_04_emperor": {
+      "esencia": "Estabilidad y dominio consciente del mundo material.",
+      "subtitulo_libro": "Estabilidad y dominio del mundo material",
+      "luz": ["seguridad", "estructura", "autoridad serena", "arraigo", "orden practico", "fuerza estable"],
+      "sombra": ["rigidez", "control excesivo", "dominio duro", "inseguridad disfrazada de poder"],
+      "neutras": ["cuadrado", "materia", "territorio"],
+      "arquetipos": ["estructura_autoridad", "seguridad", "padre_terreno"],
+      "emociones": ["seguridad", "firmeza", "orgullo sano"],
+      "preguntas": ["¿Dónde necesito estabilidad real?", "¿Mi autoridad sostiene o oprime?"],
+      "en_lectura": "Aparece cuando hace falta consolidar, poner límites claros o ocupar el propio lugar en lo concreto."
+    },
+    "major_05_hierophant": {
+      "esencia": "Mediador, puente e ideal que une cielo y tierra.",
+      "subtitulo_libro": "Mediador, puente, ideal",
+      "luz": ["guia", "ensenanza", "puente", "ideal vivido", "transmision", "bendicion"],
+      "sombra": ["dogma", "idealizacion del padre", "autoridad ciega", "ritual vacio"],
+      "neutras": ["maestro", "tradicion", "acólitos", "mediacion"],
+      "arquetipos": ["mediador", "maestro", "puente"],
+      "emociones": ["reverencia", "confianza", "pertenencia"],
+      "preguntas": ["¿A qué ideal estoy tendiendo un puente?", "¿Quién o qué me está guiando?"],
+      "en_lectura": "Puede ser un maestro, una enseñanza, una figura paterna idealizada o el deseo de transmitir un valor."
+    },
+    "major_06_lovers": {
+      "esencia": "Unión y vida emocional: el Enamorado en singular.",
+      "subtitulo_libro": "Unión, vida emocional",
+      "luz": ["union", "eleccion del corazon", "amistad profunda", "ambivalencia lucida", "vinculo"],
+      "sombra": ["indecision", "triangulo afectivo", "idealizar al otro", "confusion emocional"],
+      "neutras": ["relaciones", "valores", "llamado del angel"],
+      "arquetipos": ["amor_eleccion", "union", "vida_emocional"],
+      "emociones": ["amor", "deseo", "duda", "ternura"],
+      "preguntas": ["¿Qué relación o valor estoy eligiendo?", "¿Qué parte de mí está enamorada de una posibilidad?"],
+      "en_lectura": "Habla de la vida afectiva y de opciones del corazón. Las figuras de la carta muestran ambivalencia: no hay una sola lectura fija."
+    },
+    "major_07_chariot": {
+      "esencia": "Acción en el mundo con fuerza reunida.",
+      "subtitulo_libro": "Acción en el mundo",
+      "luz": ["accion", "avance", "voluntad movil", "conquista creativa", "fuerza reunida", "viaje"],
+      "sombra": ["precipitacion", "imponer avance", "no escuchar los polos"],
+      "neutras": ["movimiento", "vehiculo", "mundo exterior"],
+      "arquetipos": ["accion", "viaje_heroe", "poder_personal"],
+      "emociones": ["empuje", "coraje", "orgullo"],
+      "preguntas": ["¿Hacia dónde avanzo con todo lo que soy?", "¿Estoy gobernando mis impulsos o ellos a mí?"],
+      "en_lectura": "Indica salir al mundo, empujar un proyecto, viajar o cruzar una etapa con decisión."
+    },
+    "major_08_strength": {
+      "esencia": "Comienzo creativo de una nueva energía en la segunda serie.",
+      "subtitulo_libro": "Comienzo creativo, nueva energía",
+      "luz": ["fuerza serena", "dominio suave", "nueva energia", "inteligencia encarnada", "palabra verdadera"],
+      "sombra": ["fuerza bruta", "reprimir al animal interno", "orgullo de la fuerza"],
+      "neutras": ["segundo ciclo", "instinto aliado", "cuello y expresion"],
+      "arquetipos": ["fuerza_serena", "nueva_energia", "integracion"],
+      "emociones": ["calma poderosa", "coraje suave", "confianza"],
+      "preguntas": ["¿Qué nueva energía estoy aprendiendo a sostener?", "¿Cómo integro instinto e inteligencia?"],
+      "en_lectura": "Abre un ciclo de potencias más sutiles: no aplastar, sino aliarse con la fuerza viva."
+    },
+    "major_09_hermit": {
+      "esencia": "Crisis, tránsito y sabiduría de la lámpara en la noche.",
+      "subtitulo_libro": "Crisis, tránsito, sabiduría",
+      "luz": ["sabiduria", "busqueda", "guia interior", "tránsito consciente", "lucidez"],
+      "sombra": ["aislamiento", "padre ausente", "frialdad", "crisis sin apoyo"],
+      "neutras": ["soledad fertil", "lampara", "paso a lo desconocido"],
+      "arquetipos": ["busqueda_interior", "sabiduria", "crisis_iniciatica"],
+      "emociones": ["soledad", "serenidad", "melancolia lucida"],
+      "preguntas": ["¿Qué sabiduría estoy buscando en la oscuridad?", "¿Qué dejo atrás sin saber aún adónde voy?"],
+      "en_lectura": "Marca un retiro, una crisis de sentido o un guía silencioso. A diferencia del Papa, no sabes del todo adónde te lleva."
+    },
+    "major_10_wheel_of_fortune": {
+      "esencia": "Principio, mitad o final de un ciclo; el centro permanece.",
+      "subtitulo_libro": "Principio, mitad o final de un ciclo",
+      "luz": ["giro favorable", "nuevo ciclo", "movilidad", "apertura al cambio"],
+      "sombra": ["inestabilidad", "ilusion de control", "devenir que mare"],
+      "neutras": ["ciclo", "centro de la rueda", "momento del proceso"],
+      "arquetipos": ["cambio_ciclo", "fortuna", "eje_central"],
+      "emociones": ["expectativa", "inquietud", "esperanza"],
+      "preguntas": ["¿En qué punto del ciclo estoy?", "¿Qué permanece cuando todo gira?"],
+      "en_lectura": "Ayuda a situar el momento: inicio, mitad o cierre. Lo eterno se busca en el centro, no en el borde que sube y baja."
+    },
+    "major_11_justice": {
+      "esencia": "Equilibrio y perfección lúcida frente a lo real.",
+      "subtitulo_libro": "Equilibrio, perfección",
+      "luz": ["equilibrio", "claridad", "ajuste fino", "espiritualidad práctica", "ideas claras"],
+      "sombra": ["rigidez moral", "trampa del equilibrio", "juicio severo", "autoexigencia"],
+      "neutras": ["balanza", "espada", "medida"],
+      "arquetipos": ["juicio_moral", "equilibrio", "perfeccion"],
+      "emociones": ["serenidad exigente", "lucidez", "responsabilidad"],
+      "preguntas": ["¿Qué necesita equilibrarse de verdad?", "¿Mi justicia es compasiva o solo exacta?"],
+      "en_lectura": "Llama a ajustar, decidir con claridad y mirar consecuencias. También advierte sobre un equilibrio demasiado rígido."
+    },
+    "major_12_hanged_man": {
+      "esencia": "Parada, meditación y don de uno mismo.",
+      "subtitulo_libro": "Parada, meditación, don de uno mismo",
+      "luz": ["pausa fertil", "meditacion", "entrega", "nueva mirada", "sabiduria por inversion"],
+      "sombra": ["estancamiento", "inmovilidad forzada", "sacrificio involuntario"],
+      "neutras": ["suspension", "espera activa", "manos atadas al acto"],
+      "arquetipos": ["sacrificio", "pasaje", "meditacion"],
+      "emociones": ["rendicion", "calma", "vulnerabilidad lúcida"],
+      "preguntas": ["¿Qué me pide detenerme para ver?", "¿Qué puedo ofrecer sin forzar la acción?"],
+      "en_lectura": "Indica una parada aprovechable: no siempre es castigo. Puede ser el momento de meditar antes de actuar."
+    },
+    "major_13_death": {
+      "esencia": "Transformación profunda y revolución, no mera fatalidad.",
+      "subtitulo_libro": "Transformación profunda, revolución",
+      "luz": ["transformacion", "renovacion", "corte necesario", "belleza del cambio", "revolucion interior"],
+      "sombra": ["miedo al cambio", "destruccion sin sentido", "fijarse en la muerte literal"],
+      "neutras": ["arcano sin nombre", "esqueleto", "proceso de muda"],
+      "arquetipos": ["muerte_renacimiento", "transformacion", "revolucion"],
+      "emociones": ["miedo", "alivio", "respeto"],
+      "preguntas": ["¿Qué forma ha llegado a su límite?", "¿Qué transformación profunda está ocurriendo?"],
+      "en_lectura": "Jodorowsky insiste en no reducirla a 'muerte' vulgar: habla de metamorfosis radical cuando algo alcanza su límite."
+    },
+    "major_14_temperance": {
+      "esencia": "Protección, circulación y curación después del corte.",
+      "subtitulo_libro": "Protección, circulación, curación",
+      "luz": ["curacion", "circulacion", "proteccion", "alquimia suave", "mezcla justa", "cuidado"],
+      "sombra": ["evitar el conflicto", "diluir demasiado", "sobreproteger"],
+      "neutras": ["angel", "flujo entre vasos", "polos reconciliados"],
+      "arquetipos": ["templanza_alquimia", "sanacion", "circulacion"],
+      "emociones": ["paz", "cuidado", "esperanza suave"],
+      "preguntas": ["¿Qué necesita circular para sanar?", "¿Cómo protejo el proceso sin detenerlo?"],
+      "en_lectura": "Tras una transformación intensa, invita a la dosis justa, a reconciliar polos y a dejar que la vida circule."
+    },
+    "major_15_devil": {
+      "esencia": "Fuerzas del inconsciente, pasión y creatividad oscura.",
+      "subtitulo_libro": "Fuerzas del inconsciente, pasión, creatividad",
+      "luz": ["pasion creadora", "conocer la sombra", "energia vital densa", "tentacion como llamado"],
+      "sombra": ["atadura", "compulsion", "materialismo viscoso", "dependencia"],
+      "neutras": ["inconsciente", "deseo", "magma"],
+      "arquetipos": ["sombra", "pasion", "inconsciente"],
+      "emociones": ["deseo", "fascinacion", "miedo", "excitacion"],
+      "preguntas": ["¿Qué parte oculta me está tentando a crear?", "¿Dónde confundo pasión con prisión?"],
+      "en_lectura": "No es solo 'maldad': puede ser la potencia cruda del deseo y de lo no mirado. Pide conciencia, no negación."
+    },
+    "major_16_tower": {
+      "esencia": "Apertura y emergencia de lo que estaba cerrado; alivio espiritual.",
+      "subtitulo_libro": "Apertura, emergencia de lo que estaba cerrado",
+      "luz": ["apertura", "liberacion", "expresion contenida", "alivio", "salida al exterior"],
+      "sombra": ["ruptura brusca", "caos de mudanza", "torre que se resistia"],
+      "neutras": ["casa de dios", "emergencia", "estructura abierta"],
+      "arquetipos": ["apertura", "liberacion_forzada", "emergencia"],
+      "emociones": ["shock", "alivio", "liberacion"],
+      "preguntas": ["¿Qué estaba encerrado y ahora sale?", "¿Esta ruptura también es alivio?"],
+      "en_lectura": "Puede ser mudanza, separación, gran expresión o deseo de cambio de vida. El libro la lee más como apertura que como castigo."
+    },
+    "major_17_star": {
+      "esencia": "Actuar en el mundo irrigándolo; encontrar el propio sitio.",
+      "subtitulo_libro": "Actuar en el mundo, encontrar su sitio",
+      "luz": ["esperanza", "generosidad", "fertilidad", "nutrir el mundo", "verdad que fluye", "lugar propio"],
+      "sombra": ["idealizacion", "dar sin raíz", "esperar pasivamente milagros"],
+      "neutras": ["irrigacion", "estrellas", "ofrenda"],
+      "arquetipos": ["esperanza", "generosidad", "lugar_en_el_mundo"],
+      "emociones": ["esperanza", "paz", "devocion suave"],
+      "preguntas": ["¿Cómo nutro el mundo desde mi lugar?", "¿Dónde está mi sitio verdadero?"],
+      "en_lectura": "Habla de acción generosa, prosperidad posible y vínculo con lo alto sin conquista agresiva: más riego que conquista."
+    },
+    "major_18_moon": {
+      "esencia": "Potencia femenina receptiva y el gran arquetipo materno.",
+      "subtitulo_libro": "Potencia femenina receptiva",
+      "luz": ["intuicion", "receptividad", "imaginacion", "nutricion lunar", "profundidad animica"],
+      "sombra": ["confusion", "miedo nocturno", "ilusiones", "dependencia emocional"],
+      "neutras": ["madre arquetipica", "reflejos", "aullidos", "camino entre torres"],
+      "arquetipos": ["madre", "luna", "receptividad", "inconsciente"],
+      "emociones": ["melancolia", "fascinacion", "temor suave", "nostalgia"],
+      "preguntas": ["¿Qué está nutriendo mi lado receptivo?", "¿Qué imagen maternal me atraviesa?"],
+      "en_lectura": "Invita a escuchar lo nocturno, lo intuitivo y lo maternal. Puede señalar miedos o una gran fuerza receptiva."
+    },
+    "major_19_sun": {
+      "esencia": "Arquetipo paterno y nueva construcción bajo claridad.",
+      "subtitulo_libro": "Arquetipo paterno, nueva construcción",
+      "luz": ["claridad", "amistad luminosa", "nueva construccion", "benevolencia", "vitalidad"],
+      "sombra": ["dominio de imagen paterna", "exceso de ego solar", "ceguera por demasiada luz"],
+      "neutras": ["padre arquetipico", "muro", "encuentro"],
+      "arquetipos": ["padre", "claridad", "construccion"],
+      "emociones": ["alegria", "confianza", "calidez"],
+      "preguntas": ["¿Qué quiero construir a la luz del día?", "¿Cómo es mi relación con la figura paterna interior?"],
+      "en_lectura": "Aporta claridad, ayuda mutua y construcción nueva. También puede enfatizar la influencia del padre en la consulta."
+    },
+    "major_20_judgement": {
+      "esencia": "Nueva consciencia y deseo irresistible de despertar.",
+      "subtitulo_libro": "Nueva consciencia, deseo irresistible",
+      "luz": ["despertar", "llamada", "extasis", "renacimiento", "plegaria respondida", "ascension"],
+      "sombra": ["juicio autoagresivo", "urgencia ansiosa", "no oír la llamada"],
+      "neutras": ["trompeta", "angel", "vuelta a la vida"],
+      "arquetipos": ["juicio_llamada", "despertar", "renacimiento"],
+      "emociones": ["asombro", "urgencia sagrada", "alivio", "devocion"],
+      "preguntas": ["¿A qué nueva dimensión me está llamando la vida?", "¿Qué deseo irresistible no puedo seguir posponiendo?"],
+      "en_lectura": "Concentra muchas energías: anuncio de un despertar, un sí profundo, una resurrección simbólica."
+    },
+    "major_21_world": {
+      "esencia": "Realización total y danza en el centro del mandala.",
+      "subtitulo_libro": "Realización total",
+      "luz": ["realizacion", "plenitud", "integracion", "obra completa", "danza cosmica"],
+      "sombra": ["cierre prematuro", "bloqueos de origen", "perfeccionismo del final"],
+      "neutras": ["mandala", "huevo filosofico", "cuatro seres"],
+      "arquetipos": ["mundo_completitud", "realizacion", "mandala"],
+      "emociones": ["plenitud", "gratitud", "paz"],
+      "preguntas": ["¿Qué realización está madurando?", "¿Qué integra finalmente mi proceso?"],
+      "en_lectura": "Habla de culminación, de obra cumplida y de integración. A veces invita a mirar también bloqueos tempranos que impiden cerrar el ciclo."
+    }
+  }
+}

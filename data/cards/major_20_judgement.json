@@ -1,0 +1,269 @@
+{
+  "id": "major_20_judgement",
+  "nombre": "El Juicio",
+  "nombre_original": "Judgement",
+  "numero": 20,
+  "legacy_filename": "el_juicio.png",
+  "elementos": [
+    "fuego",
+    "agua"
+  ],
+  "simbolos": [
+    "trompeta",
+    "angel",
+    "tumbas",
+    "cruz",
+    "montanas",
+    "mar"
+  ],
+  "personajes": [
+    {
+      "tipo": "figura_angelica",
+      "cantidad": 1,
+      "movimiento": "llamada"
+    },
+    {
+      "tipo": "figura_humana",
+      "cantidad": 3,
+      "movimiento": "despertar"
+    }
+  ],
+  "direcciones": {
+    "mirada": [
+      "arriba"
+    ],
+    "movimiento": [
+      "ascendente"
+    ],
+    "orientacion_general": "vertical"
+  },
+  "palabras_clave": {
+    "neutrales": [
+      "llamada",
+      "evaluacion",
+      "despertar",
+      "trompeta",
+      "angel",
+      "vuelta a la vida"
+    ],
+    "luz": [
+      "renacimiento",
+      "perdon",
+      "proposito",
+      "despertar",
+      "llamada",
+      "extasis",
+      "plegaria respondida",
+      "ascension",
+      "renacer narrativo"
+    ],
+    "sombra": [
+      "autocritica",
+      "juicio severo",
+      "culpa",
+      "juicio autoagresivo",
+      "urgencia ansiosa",
+      "no oír la llamada",
+      "juicio cruel",
+      "nostalgia que no suelta"
+    ]
+  },
+  "arquetipos": [
+    "juicio_llamada",
+    "renacimiento",
+    "revelacion",
+    "despertar"
+  ],
+  "emociones": [
+    "asombro",
+    "alivio",
+    "esperanza",
+    "urgencia sagrada",
+    "devocion"
+  ],
+  "etapas_narrativas": [
+    "revelacion",
+    "renacimiento",
+    "cierre"
+  ],
+  "tipo": "arcano_mayor",
+  "palo": null,
+  "mazo": "rider_waite_smith",
+  "imagen": "cartas/el_juicio.png",
+  "colores": {
+    "dominantes_rgb": [
+      [
+        218,
+        222,
+        214
+      ],
+      [
+        94,
+        79,
+        61
+      ],
+      [
+        26,
+        20,
+        15
+      ],
+      [
+        144,
+        144,
+        138
+      ],
+      [
+        226,
+        139,
+        44
+      ]
+    ],
+    "dominantes_hex": [
+      "#daded6",
+      "#5e4f3d",
+      "#1a140f",
+      "#90908a",
+      "#e28b2c"
+    ],
+    "dominantes_lab": [
+      [
+        87.97001305980662,
+        -2.781340672355248,
+        3.44555783681908
+      ],
+      [
+        34.61808980697401,
+        3.240885274619687,
+        12.971048894002813
+      ],
+      [
+        6.814858407324028,
+        1.8564022017185655,
+        3.7783165044310008
+      ],
+      [
+        59.626607372468825,
+        -1.145599862084845,
+        3.184036063460427
+      ],
+      [
+        65.60835010416204,
+        26.19925601458595,
+        60.808546798227205
+      ]
+    ],
+    "porcentajes": [
+      0.3695016805494666,
+      0.1985971065322227,
+      0.17843051293292417,
+      0.16337863510156364,
+      0.09009206488382289
+    ],
+    "luminosidad_media": 0.6091950268343491,
+    "saturacion_media": 0.270913518928979,
+    "temperatura_visual": "calida",
+    "histograma_hue_bins": [
+      0.2472599736957475,
+      0.3308490428174778,
+      0.08125091334210144,
+      0.014686540990793515,
+      0.04267134297822593,
+      0.021920210434020173,
+      0.24631009791027333,
+      0.00767207365190706,
+      0.00511471576793804,
+      0.0005845389449072046,
+      0.0010960105217010087,
+      0.0005845389449072046
+    ]
+  },
+  "numerologia": {
+    "numero": 20,
+    "reduccion": 2
+  },
+  "fuentes": [
+    "tradicion_rws_comparada",
+    "anotacion_laboratorio_v1",
+    "La vía del Tarot — Alejandro Jodorowsky, Marianne Costa",
+    "El tarot: del dilema a la metáfora — Miguel Ángel Díaz Canseco"
+  ],
+  "version": 3,
+  "attributions": {
+    "significados_jodorowsky": [
+      {
+        "value": "Nueva consciencia, deseo irresistible",
+        "source": "manual",
+        "confidence": 0.85,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_estudio_via_del_tarot"
+      }
+    ],
+    "canseco_metafora": [
+      {
+        "value": "Abrir y cerrar capítulos: llamada a una nueva escena de vida.",
+        "source": "manual",
+        "confidence": 0.8,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_canseco_dilema_metafora"
+      }
+    ]
+  },
+  "significados": [
+    {
+      "fuente": "La vía del Tarot",
+      "autores": [
+        "Alejandro Jodorowsky",
+        "Marianne Costa"
+      ],
+      "esencia": "Nueva consciencia y deseo irresistible de despertar.",
+      "subtitulo": "Nueva consciencia, deseo irresistible",
+      "en_lectura": "Concentra muchas energías: anuncio de un despertar, un sí profundo, una resurrección simbólica.",
+      "preguntas": [
+        "¿A qué nueva dimensión me está llamando la vida?",
+        "¿Qué deseo irresistible no puedo seguir posponiendo?"
+      ],
+      "palabras_luz": [
+        "despertar",
+        "llamada",
+        "extasis",
+        "renacimiento",
+        "plegaria respondida",
+        "ascension"
+      ],
+      "palabras_sombra": [
+        "juicio autoagresivo",
+        "urgencia ansiosa",
+        "no oír la llamada"
+      ],
+      "palabras_neutrales": [
+        "trompeta",
+        "angel",
+        "vuelta a la vida"
+      ]
+    },
+    {
+      "fuente": "El tarot: del dilema a la metáfora",
+      "autores": [
+        "Miguel Ángel Díaz Canseco"
+      ],
+      "esencia": "Abrir y cerrar capítulos: llamada a una nueva escena de vida.",
+      "subtitulo": "Del dilema a la metáfora",
+      "en_lectura": "trompeta fuera de campo; cuerpos se levantan hacia la luz",
+      "preguntas": [
+        "¿Qué capítulo pide cerrarse con honestidad?"
+      ],
+      "palabras_luz": [
+        "llamada",
+        "renacer narrativo",
+        "despertar"
+      ],
+      "palabras_sombra": [
+        "juicio cruel",
+        "nostalgia que no suelta"
+      ],
+      "palabras_neutrales": []
+    }
+  ]
+}

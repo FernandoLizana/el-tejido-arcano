@@ -1,0 +1,112 @@
+{
+  "major_14_temperance": {
+    "start": 5,
+    "end": 17,
+    "chars": 12000
+  },
+  "major_00_fool": {
+    "start": 18,
+    "end": 17,
+    "chars": 0
+  },
+  "major_01_magician": {
+    "start": 18,
+    "end": 17,
+    "chars": 0
+  },
+  "major_02_high_priestess": {
+    "start": 18,
+    "end": 17,
+    "chars": 0
+  },
+  "major_03_empress": {
+    "start": 18,
+    "end": 17,
+    "chars": 0
+  },
+  "major_04_emperor": {
+    "start": 18,
+    "end": 17,
+    "chars": 0
+  },
+  "major_05_hierophant": {
+    "start": 18,
+    "end": 17,
+    "chars": 0
+  },
+  "major_06_lovers": {
+    "start": 18,
+    "end": 17,
+    "chars": 0
+  },
+  "major_07_chariot": {
+    "start": 18,
+    "end": 17,
+    "chars": 0
+  },
+  "major_11_justice": {
+    "start": 18,
+    "end": 17,
+    "chars": 0
+  },
+  "major_09_hermit": {
+    "start": 18,
+    "end": 17,
+    "chars": 0
+  },
+  "major_10_wheel_of_fortune": {
+    "start": 18,
+    "end": 18,
+    "chars": 610
+  },
+  "major_20_judgement": {
+    "start": 19,
+    "end": 18,
+    "chars": 0
+  },
+  "major_21_world": {
+    "start": 19,
+    "end": 32,
+    "chars": 12000
+  },
+  "major_08_strength": {
+    "start": 107,
+    "end": 109,
+    "chars": 9226
+  },
+  "major_12_hanged_man": {
+    "start": 110,
+    "end": 112,
+    "chars": 9481
+  },
+  "major_13_death": {
+    "start": 113,
+    "end": 119,
+    "chars": 12000
+  },
+  "major_15_devil": {
+    "start": 120,
+    "end": 123,
+    "chars": 12000
+  },
+  "major_16_tower": {
+    "start": 124,
+    "end": 126,
+    "chars": 9851
+  },
+  "major_17_star": {
+    "start": 127,
+    "end": 129,
+    "chars": 10468
+  },
+  "major_18_moon": {
+    "start": 130,
+    "end": 132,
+    "chars": 10278
+  },
+  "major_19_sun": {
+    "start": 133,
+    "end": 144,
+    "chars": 12000
+  }
+}

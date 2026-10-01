@@ -1,0 +1,265 @@
+{
+  "id": "major_21_world",
+  "nombre": "El Mundo",
+  "nombre_original": "The World",
+  "numero": 21,
+  "legacy_filename": "el_mundo.png",
+  "elementos": [
+    "tierra",
+    "espiritu"
+  ],
+  "simbolos": [
+    "guirnalda",
+    "danza",
+    "tetramorfos",
+    "cintas",
+    "cielo"
+  ],
+  "personajes": [
+    {
+      "tipo": "figura_humana",
+      "cantidad": 1,
+      "movimiento": "danza"
+    },
+    {
+      "tipo": "criatura_mitica",
+      "cantidad": 4,
+      "movimiento": "vigilancia"
+    }
+  ],
+  "direcciones": {
+    "mirada": [
+      "frente"
+    ],
+    "movimiento": [
+      "circular"
+    ],
+    "orientacion_general": "circular"
+  },
+  "palabras_clave": {
+    "neutrales": [
+      "completitud",
+      "ciclo",
+      "integracion",
+      "mandala",
+      "huevo filosofico",
+      "cuatro seres"
+    ],
+    "luz": [
+      "logro",
+      "plenitud",
+      "sintesis",
+      "realizacion",
+      "integracion",
+      "obra completa",
+      "danza cosmica",
+      "totalidad",
+      "obra cumplida"
+    ],
+    "sombra": [
+      "cierre prematuro",
+      "inercia",
+      "autocomplacencia",
+      "bloqueos de origen",
+      "perfeccionismo del final",
+      "perfeccionismo"
+    ]
+  },
+  "arquetipos": [
+    "mundo_completitud",
+    "integracion",
+    "viaje_heroe",
+    "realizacion",
+    "mandala"
+  ],
+  "emociones": [
+    "plenitud",
+    "alegria",
+    "paz",
+    "gratitud"
+  ],
+  "etapas_narrativas": [
+    "integracion",
+    "cierre",
+    "resolucion"
+  ],
+  "tipo": "arcano_mayor",
+  "palo": null,
+  "mazo": "rider_waite_smith",
+  "imagen": "cartas/el_mundo.png",
+  "colores": {
+    "dominantes_rgb": [
+      [
+        205,
+        235,
+        248
+      ],
+      [
+        105,
+        89,
+        39
+      ],
+      [
+        37,
+        35,
+        15
+      ],
+      [
+        140,
+        158,
+        105
+      ],
+      [
+        238,
+        184,
+        101
+      ]
+    ],
+    "dominantes_hex": [
+      "#cdebf8",
+      "#695927",
+      "#25230f",
+      "#8c9e69",
+      "#eeb865"
+    ],
+    "dominantes_lab": [
+      [
+        91.31171614989474,
+        -7.12871422449407,
+        -9.571176513050506
+      ],
+      [
+        38.366757770218626,
+        -0.16273940547961718,
+        30.806045936654147
+      ],
+      [
+        13.41118782631245,
+        -2.758448822750767,
+        13.25254733705875
+      ],
+      [
+        62.5489878354999,
+        -15.706457848844558,
+        25.64978974351233
+      ],
+      [
+        78.11134880828997,
+        10.377416912489556,
+        49.07960001767133
+      ]
+    ],
+    "porcentajes": [
+      0.3970247701915655,
+      0.19121465160339626,
+      0.1758473089607747,
+      0.12034243211002736,
+      0.11557083713423619
+    ],
+    "luminosidad_media": 0.6923807204447985,
+    "saturacion_media": 0.4137981181758656,
+    "temperatura_visual": "calida",
+    "histograma_hue_bins": [
+      0.12279840011227283,
+      0.19409164269174095,
+      0.21500245596800224,
+      0.011016770752929618,
+      0.009823872008981827,
+      0.0053329590905901334,
+      0.41302364746333586,
+      0.01480597852782261,
+      0.009894042523331696,
+      0.0010525577152480528,
+      0.0013332397726475334,
+      0.001824433373096625
+    ]
+  },
+  "numerologia": {
+    "numero": 21,
+    "reduccion": 3
+  },
+  "fuentes": [
+    "tradicion_rws_comparada",
+    "anotacion_laboratorio_v1",
+    "La vía del Tarot — Alejandro Jodorowsky, Marianne Costa",
+    "El tarot: del dilema a la metáfora — Miguel Ángel Díaz Canseco"
+  ],
+  "version": 3,
+  "attributions": {
+    "significados_jodorowsky": [
+      {
+        "value": "Realización total",
+        "source": "manual",
+        "confidence": 0.85,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_estudio_via_del_tarot"
+      }
+    ],
+    "canseco_metafora": [
+      {
+        "value": "Huevo órfico: lo infinito y lo finito danzan en una ciudad soñada.",
+        "source": "manual",
+        "confidence": 0.8,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_canseco_dilema_metafora"
+      }
+    ]
+  },
+  "significados": [
+    {
+      "fuente": "La vía del Tarot",
+      "autores": [
+        "Alejandro Jodorowsky",
+        "Marianne Costa"
+      ],
+      "esencia": "Realización total y danza en el centro del mandala.",
+      "subtitulo": "Realización total",
+      "en_lectura": "Habla de culminación, de obra cumplida y de integración. A veces invita a mirar también bloqueos tempranos que impiden cerrar el ciclo.",
+      "preguntas": [
+        "¿Qué realización está madurando?",
+        "¿Qué integra finalmente mi proceso?"
+      ],
+      "palabras_luz": [
+        "realizacion",
+        "plenitud",
+        "integracion",
+        "obra completa",
+        "danza cosmica"
+      ],
+      "palabras_sombra": [
+        "cierre prematuro",
+        "bloqueos de origen",
+        "perfeccionismo del final"
+      ],
+      "palabras_neutrales": [
+        "mandala",
+        "huevo filosofico",
+        "cuatro seres"
+      ]
+    },
+    {
+      "fuente": "El tarot: del dilema a la metáfora",
+      "autores": [
+        "Miguel Ángel Díaz Canseco"
+      ],
+      "esencia": "Huevo órfico: lo infinito y lo finito danzan en una ciudad soñada.",
+      "subtitulo": "Del dilema a la metáfora",
+      "en_lectura": "plano final circular; el personaje danza dentro de un marco vivo",
+      "preguntas": [
+        "¿Qué totalidad estoy a punto de integrar?"
+      ],
+      "palabras_luz": [
+        "totalidad",
+        "danza cosmica",
+        "obra cumplida"
+      ],
+      "palabras_sombra": [
+        "cierre prematuro",
+        "perfeccionismo"
+      ],
+      "palabras_neutrales": []
+    }
+  ]
+}

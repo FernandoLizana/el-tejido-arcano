@@ -1,0 +1,253 @@
+{
+  "id": "major_10_wheel_of_fortune",
+  "nombre": "La Rueda de la Fortuna",
+  "nombre_original": "Wheel of Fortune",
+  "numero": 10,
+  "legacy_filename": "la_rueda_de_la_fortuna.png",
+  "elementos": [
+    "fuego"
+  ],
+  "simbolos": [
+    "rueda",
+    "esfinge",
+    "serpiente",
+    "nube",
+    "letras",
+    "criatura"
+  ],
+  "personajes": [
+    {
+      "tipo": "criatura_mitica",
+      "cantidad": 4,
+      "movimiento": "circular"
+    }
+  ],
+  "direcciones": {
+    "mirada": [],
+    "movimiento": [
+      "circular"
+    ],
+    "orientacion_general": "circular"
+  },
+  "palabras_clave": {
+    "neutrales": [
+      "ciclo",
+      "cambio",
+      "destino aparente",
+      "centro de la rueda",
+      "momento del proceso"
+    ],
+    "luz": [
+      "oportunidad",
+      "giro favorable",
+      "expansion",
+      "nuevo ciclo",
+      "movilidad",
+      "apertura al cambio",
+      "cambio de ciclo"
+    ],
+    "sombra": [
+      "inestabilidad",
+      "fatalismo",
+      "perdida de control",
+      "ilusion de control",
+      "devenir que mare",
+      "vaiven"
+    ]
+  },
+  "arquetipos": [
+    "cambio_ciclo",
+    "fortuna",
+    "transito",
+    "eje_central"
+  ],
+  "emociones": [
+    "asombro",
+    "ansiedad",
+    "esperanza",
+    "expectativa",
+    "inquietud"
+  ],
+  "etapas_narrativas": [
+    "cambio",
+    "transito"
+  ],
+  "tipo": "arcano_mayor",
+  "palo": null,
+  "mazo": "rider_waite_smith",
+  "imagen": "cartas/la_rueda_de_la_fortuna.png",
+  "colores": {
+    "dominantes_rgb": [
+      [
+        213,
+        234,
+        243
+      ],
+      [
+        243,
+        177,
+        59
+      ],
+      [
+        125,
+        105,
+        39
+      ],
+      [
+        37,
+        31,
+        18
+      ],
+      [
+        139,
+        154,
+        157
+      ]
+    ],
+    "dominantes_hex": [
+      "#d5eaf3",
+      "#f3b13b",
+      "#7d6927",
+      "#251f12",
+      "#8b9a9d"
+    ],
+    "dominantes_lab": [
+      [
+        91.44270469474576,
+        -5.143402800601438,
+        -6.7097905295681715
+      ],
+      [
+        76.56927397178653,
+        13.770150025932681,
+        66.09034185167796
+      ],
+      [
+        45.09586201988419,
+        -0.06829899270366369,
+        38.80592434264035
+      ],
+      [
+        12.070452841760893,
+        0.4570630155032729,
+        9.741521050079777
+      ],
+      [
+        62.536312801139744,
+        -4.691360475822304,
+        -3.388552326423344
+      ]
+    ],
+    "porcentajes": [
+      0.342923908280999,
+      0.2812180517014751,
+      0.1599970790127063,
+      0.13385424273404412,
+      0.08200671827077552
+    ],
+    "luminosidad_media": 0.7454854995890571,
+    "saturacion_media": 0.4415415618302903,
+    "temperatura_visual": "calida",
+    "histograma_hue_bins": [
+      0.2561705856579524,
+      0.424054330363663,
+      0.03161968745435958,
+      0.002117715787936323,
+      0.003359135387761064,
+      0.001971666423251059,
+      0.2409084270483424,
+      0.021104133197020595,
+      0.016576602891777426,
+      0.00029209872937052727,
+      0.0016065430115379,
+      0.00021907404702789548
+    ]
+  },
+  "numerologia": {
+    "numero": 10,
+    "reduccion": 1
+  },
+  "fuentes": [
+    "tradicion_rws_comparada",
+    "anotacion_laboratorio_v1",
+    "La vía del Tarot — Alejandro Jodorowsky, Marianne Costa",
+    "El tarot: del dilema a la metáfora — Miguel Ángel Díaz Canseco"
+  ],
+  "version": 3,
+  "attributions": {
+    "significados_jodorowsky": [
+      {
+        "value": "Principio, mitad o final de un ciclo",
+        "source": "manual",
+        "confidence": 0.85,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_estudio_via_del_tarot"
+      }
+    ],
+    "canseco_metafora": [
+      {
+        "value": "Un solo personaje en lo alto y abajo: la contingencia da vueltas.",
+        "source": "manual",
+        "confidence": 0.8,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_canseco_dilema_metafora"
+      }
+    ]
+  },
+  "significados": [
+    {
+      "fuente": "La vía del Tarot",
+      "autores": [
+        "Alejandro Jodorowsky",
+        "Marianne Costa"
+      ],
+      "esencia": "Principio, mitad o final de un ciclo; el centro permanece.",
+      "subtitulo": "Principio, mitad o final de un ciclo",
+      "en_lectura": "Ayuda a situar el momento: inicio, mitad o cierre. Lo eterno se busca en el centro, no en el borde que sube y baja.",
+      "preguntas": [
+        "¿En qué punto del ciclo estoy?",
+        "¿Qué permanece cuando todo gira?"
+      ],
+      "palabras_luz": [
+        "giro favorable",
+        "nuevo ciclo",
+        "movilidad",
+        "apertura al cambio"
+      ],
+      "palabras_sombra": [
+        "inestabilidad",
+        "ilusion de control",
+        "devenir que mare"
+      ],
+      "palabras_neutrales": [
+        "ciclo",
+        "centro de la rueda",
+        "momento del proceso"
+      ]
+    },
+    {
+      "fuente": "El tarot: del dilema a la metáfora",
+      "autores": [
+        "Miguel Ángel Díaz Canseco"
+      ],
+      "esencia": "Un solo personaje en lo alto y abajo: la contingencia da vueltas.",
+      "subtitulo": "Del dilema a la metáfora",
+      "en_lectura": "montaje circular; subidas y caídas del mismo rostro",
+      "preguntas": [
+        "¿En qué punto del giro estoy hoy?"
+      ],
+      "palabras_luz": [
+        "cambio de ciclo",
+        "oportunidad",
+        "movilidad"
+      ],
+      "palabras_sombra": [
+        "vaiven",
+        "ilusion de control"
+      ],
+      "palabras_neutrales": []
+    }
+  ]
+}

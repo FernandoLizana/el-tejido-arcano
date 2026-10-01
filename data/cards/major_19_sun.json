@@ -1,0 +1,267 @@
+{
+  "id": "major_19_sun",
+  "nombre": "El Sol",
+  "nombre_original": "The Sun",
+  "numero": 19,
+  "legacy_filename": "el_sol.png",
+  "elementos": [
+    "fuego"
+  ],
+  "simbolos": [
+    "sol",
+    "ninio",
+    "caballo",
+    "girasoles",
+    "muro"
+  ],
+  "personajes": [
+    {
+      "tipo": "ninio",
+      "cantidad": 1,
+      "movimiento": "alegria"
+    },
+    {
+      "tipo": "animal",
+      "cantidad": 1,
+      "movimiento": "avance"
+    }
+  ],
+  "direcciones": {
+    "mirada": [
+      "frente"
+    ],
+    "movimiento": [
+      "adelante"
+    ],
+    "orientacion_general": "horizontal"
+  },
+  "palabras_clave": {
+    "neutrales": [
+      "claridad",
+      "vitalidad",
+      "exito",
+      "padre arquetipico",
+      "muro",
+      "encuentro"
+    ],
+    "luz": [
+      "alegria",
+      "verdad",
+      "generosidad",
+      "claridad",
+      "amistad luminosa",
+      "nueva construccion",
+      "benevolencia",
+      "vitalidad",
+      "concordia",
+      "juego solar"
+    ],
+    "sombra": [
+      "egocentrismo",
+      "exceso",
+      "ceguera solar",
+      "dominio de imagen paterna",
+      "exceso de ego solar",
+      "ceguera por demasiada luz",
+      "exceso de brillo",
+      "ingenuidad"
+    ]
+  },
+  "arquetipos": [
+    "revelacion",
+    "renovacion",
+    "integracion",
+    "padre",
+    "claridad",
+    "construccion"
+  ],
+  "emociones": [
+    "alegria",
+    "euforia",
+    "confianza",
+    "calidez"
+  ],
+  "etapas_narrativas": [
+    "resolucion",
+    "integracion"
+  ],
+  "tipo": "arcano_mayor",
+  "palo": null,
+  "mazo": "rider_waite_smith",
+  "imagen": "cartas/el_sol.png",
+  "colores": {
+    "dominantes_rgb": [
+      [
+        58,
+        39,
+        23
+      ],
+      [
+        244,
+        235,
+        40
+      ],
+      [
+        215,
+        223,
+        221
+      ],
+      [
+        127,
+        130,
+        80
+      ],
+      [
+        207,
+        69,
+        39
+      ]
+    ],
+    "dominantes_hex": [
+      "#3a2717",
+      "#f4eb28",
+      "#d7dfdd",
+      "#7f8250",
+      "#cf4527"
+    ],
+    "dominantes_lab": [
+      [
+        17.518784608102465,
+        6.662616571879109,
+        14.065020139585993
+      ],
+      [
+        91.14622827784342,
+        -15.959272830907533,
+        84.5948572970753
+      ],
+      [
+        88.18114762025193,
+        -3.050548841165013,
+        0.0426871439874299
+      ],
+      [
+        53.01155471455418,
+        -9.361135019818335,
+        26.708174595661816
+      ],
+      [
+        49.096253937240306,
+        53.01265898327245,
+        46.626378845031226
+      ]
+    ],
+    "porcentajes": [
+      0.24964448236632536,
+      0.22070534698521047,
+      0.21985210466439134,
+      0.20484926052332195,
+      0.10494880546075085
+    ],
+    "luminosidad_media": 0.6690387360860157,
+    "saturacion_media": 0.5268840650461353,
+    "temperatura_visual": "calida",
+    "histograma_hue_bins": [
+      0.32103242320819114,
+      0.4000995449374289,
+      0.12059158134243458,
+      0.005830489192263937,
+      0.006186006825938567,
+      0.005830489192263937,
+      0.11525881683731513,
+      0.013722980659840728,
+      0.006114903299203641,
+      0.0017064846416382255,
+      0.0019908987485779293,
+      0.0016353811149032993
+    ]
+  },
+  "numerologia": {
+    "numero": 19,
+    "reduccion": 1
+  },
+  "fuentes": [
+    "tradicion_rws_comparada",
+    "anotacion_laboratorio_v1",
+    "La vía del Tarot — Alejandro Jodorowsky, Marianne Costa",
+    "El tarot: del dilema a la metáfora — Miguel Ángel Díaz Canseco"
+  ],
+  "version": 3,
+  "attributions": {
+    "significados_jodorowsky": [
+      {
+        "value": "Arquetipo paterno, nueva construcción",
+        "source": "manual",
+        "confidence": 0.85,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_estudio_via_del_tarot"
+      }
+    ],
+    "canseco_metafora": [
+      {
+        "value": "Redención luminosa tras la luna: concordia y claridad.",
+        "source": "manual",
+        "confidence": 0.8,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_canseco_dilema_metafora"
+      }
+    ]
+  },
+  "significados": [
+    {
+      "fuente": "La vía del Tarot",
+      "autores": [
+        "Alejandro Jodorowsky",
+        "Marianne Costa"
+      ],
+      "esencia": "Arquetipo paterno y nueva construcción bajo claridad.",
+      "subtitulo": "Arquetipo paterno, nueva construcción",
+      "en_lectura": "Aporta claridad, ayuda mutua y construcción nueva. También puede enfatizar la influencia del padre en la consulta.",
+      "preguntas": [
+        "¿Qué quiero construir a la luz del día?",
+        "¿Cómo es mi relación con la figura paterna interior?"
+      ],
+      "palabras_luz": [
+        "claridad",
+        "amistad luminosa",
+        "nueva construccion",
+        "benevolencia",
+        "vitalidad"
+      ],
+      "palabras_sombra": [
+        "dominio de imagen paterna",
+        "exceso de ego solar",
+        "ceguera por demasiada luz"
+      ],
+      "palabras_neutrales": [
+        "padre arquetipico",
+        "muro",
+        "encuentro"
+      ]
+    },
+    {
+      "fuente": "El tarot: del dilema a la metáfora",
+      "autores": [
+        "Miguel Ángel Díaz Canseco"
+      ],
+      "esencia": "Redención luminosa tras la luna: concordia y claridad.",
+      "subtitulo": "Del dilema a la metáfora",
+      "en_lectura": "exterior radiante; dos figuras se hallan sin máscara",
+      "preguntas": [
+        "¿Qué quiero construir a plena luz?"
+      ],
+      "palabras_luz": [
+        "concordia",
+        "claridad",
+        "juego solar"
+      ],
+      "palabras_sombra": [
+        "exceso de brillo",
+        "ingenuidad"
+      ],
+      "palabras_neutrales": []
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "id": "major_04_emperor",
+  "nombre": "El Emperador",
+  "nombre_original": "The Emperor",
+  "numero": 4,
+  "legacy_filename": "el_emperador.png",
+  "elementos": [
+    "fuego"
+  ],
+  "simbolos": [
+    "trono",
+    "armadura",
+    "montana",
+    "cetro",
+    "carneros"
+  ],
+  "personajes": [
+    {
+      "tipo": "figura_humana",
+      "cantidad": 1,
+      "movimiento": "autoridad"
+    }
+  ],
+  "direcciones": {
+    "mirada": [
+      "frente"
+    ],
+    "movimiento": [
+      "estatico"
+    ],
+    "orientacion_general": "vertical"
+  },
+  "palabras_clave": {
+    "neutrales": [
+      "estructura",
+      "orden",
+      "limites",
+      "cuadrado",
+      "materia",
+      "territorio"
+    ],
+    "luz": [
+      "estabilidad",
+      "proteccion",
+      "liderazgo",
+      "seguridad",
+      "estructura",
+      "autoridad serena",
+      "arraigo",
+      "orden practico",
+      "fuerza estable",
+      "orden racional"
+    ],
+    "sombra": [
+      "rigidez",
+      "control",
+      "dominio",
+      "control excesivo",
+      "dominio duro",
+      "inseguridad disfrazada de poder",
+      "dominio rígido",
+      "poder sin calor"
+    ]
+  },
+  "arquetipos": [
+    "estructura_autoridad",
+    "disciplina",
+    "limite",
+    "seguridad",
+    "padre_terreno"
+  ],
+  "emociones": [
+    "determinacion",
+    "orgullo",
+    "seguridad",
+    "firmeza",
+    "orgullo sano"
+  ],
+  "etapas_narrativas": [
+    "desarrollo",
+    "estructura"
+  ],
+  "tipo": "arcano_mayor",
+  "palo": null,
+  "mazo": "rider_waite_smith",
+  "imagen": "cartas/el_emperador.png",
+  "colores": {
+    "dominantes_rgb": [
+      [
+        208,
+        177,
+        123
+      ],
+      [
+        91,
+        44,
+        36
+      ],
+      [
+        158,
+        97,
+        70
+      ],
+      [
+        19,
+        9,
+        8
+      ],
+      [
+        249,
+        246,
+        201
+      ]
+    ],
+    "dominantes_hex": [
+      "#d0b17b",
+      "#5b2c24",
+      "#9e6146",
+      "#130908",
+      "#f9f6c9"
+    ],
+    "dominantes_lab": [
+      [
+        73.73088602827866,
+        3.8224591819789877,
+        31.780710889328923
+      ],
+      [
+        24.172496976231294,
+        20.634262750613697,
+        14.963491605911749
+      ],
+      [
+        47.31695381289142,
+        21.88721326688131,
+        25.72914727433666
+      ],
+      [
+        3.1740148329985907,
+        3.1178881286235276,
+        1.5260343901574491
+      ],
+      [
+        96.10838780640171,
+        -6.148420693698697,
+        22.067407723024335
+      ]
+    ],
+    "porcentajes": [
+      0.26286713286713287,
+      0.22755244755244755,
+      0.19678321678321678,
+      0.17825174825174825,
+      0.13454545454545455
+    ],
+    "luminosidad_media": 0.5642048539695598,
+    "saturacion_media": 0.45682982416568085,
+    "temperatura_visual": "calida",
+    "histograma_hue_bins": [
+      0.23965034965034968,
+      0.5187412587412588,
+      0.043426573426573425,
+      0.0016083916083916084,
+      0.008111888111888111,
+      0.005594405594405594,
+      0.06265734265734266,
+      0.004615384615384616,
+      0.0025874125874125876,
+      0.0005594405594405594,
+      0.0008391608391608392,
+      0.11160839160839162
+    ]
+  },
+  "numerologia": {
+    "numero": 4,
+    "reduccion": 4
+  },
+  "fuentes": [
+    "tradicion_rws_comparada",
+    "anotacion_laboratorio_v1",
+    "La vía del Tarot — Alejandro Jodorowsky, Marianne Costa",
+    "El tarot: del dilema a la metáfora — Miguel Ángel Díaz Canseco"
+  ],
+  "version": 3,
+  "attributions": {
+    "significados_jodorowsky": [
+      {
+        "value": "Estabilidad y dominio del mundo material",
+        "source": "manual",
+        "confidence": 0.85,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_estudio_via_del_tarot"
+      }
+    ],
+    "canseco_metafora": [
+      {
+        "value": "Cetro sereno: reinar con orden, no con espada.",
+        "source": "manual",
+        "confidence": 0.8,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_canseco_dilema_metafora"
+      }
+    ]
+  },
+  "significados": [
+    {
+      "fuente": "La vía del Tarot",
+      "autores": [
+        "Alejandro Jodorowsky",
+        "Marianne Costa"
+      ],
+      "esencia": "Estabilidad y dominio consciente del mundo material.",
+      "subtitulo": "Estabilidad y dominio del mundo material",
+      "en_lectura": "Aparece cuando hace falta consolidar, poner límites claros o ocupar el propio lugar en lo concreto.",
+      "preguntas": [
+        "¿Dónde necesito estabilidad real?",
+        "¿Mi autoridad sostiene o oprime?"
+      ],
+      "palabras_luz": [
+        "seguridad",
+        "estructura",
+        "autoridad serena",
+        "arraigo",
+        "orden practico",
+        "fuerza estable"
+      ],
+      "palabras_sombra": [
+        "rigidez",
+        "control excesivo",
+        "dominio duro",
+        "inseguridad disfrazada de poder"
+      ],
+      "palabras_neutrales": [
+        "cuadrado",
+        "materia",
+        "territorio"
+      ]
+    },
+    {
+      "fuente": "El tarot: del dilema a la metáfora",
+      "autores": [
+        "Miguel Ángel Díaz Canseco"
+      ],
+      "esencia": "Cetro sereno: reinar con orden, no con espada.",
+      "subtitulo": "Del dilema a la metáfora",
+      "en_lectura": "trono amplio; planos geométricos, límites claros",
+      "preguntas": [
+        "¿Mi estructura sostiene o encierra?"
+      ],
+      "palabras_luz": [
+        "orden racional",
+        "estabilidad",
+        "autoridad serena"
+      ],
+      "palabras_sombra": [
+        "dominio rígido",
+        "poder sin calor"
+      ],
+      "palabras_neutrales": []
+    }
+  ]
+}

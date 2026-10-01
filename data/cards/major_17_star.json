@@ -1,0 +1,263 @@
+{
+  "id": "major_17_star",
+  "nombre": "La Estrella",
+  "nombre_original": "The Star",
+  "numero": 17,
+  "legacy_filename": "la_estrella.png",
+  "elementos": [
+    "aire"
+  ],
+  "simbolos": [
+    "estrella",
+    "agua",
+    "jarra",
+    "ave",
+    "desnudez",
+    "montana"
+  ],
+  "personajes": [
+    {
+      "tipo": "figura_humana",
+      "cantidad": 1,
+      "movimiento": "vertido"
+    }
+  ],
+  "direcciones": {
+    "mirada": [
+      "agua"
+    ],
+    "movimiento": [
+      "flujo"
+    ],
+    "orientacion_general": "horizontal"
+  },
+  "palabras_clave": {
+    "neutrales": [
+      "esperanza",
+      "inspiracion",
+      "quietud",
+      "irrigacion",
+      "estrellas",
+      "ofrenda"
+    ],
+    "luz": [
+      "sanacion",
+      "confianza",
+      "guia",
+      "esperanza",
+      "generosidad",
+      "fertilidad",
+      "nutrir el mundo",
+      "verdad que fluye",
+      "lugar propio",
+      "renovacion",
+      "purificacion",
+      "flujo"
+    ],
+    "sombra": [
+      "idealizacion",
+      "desconexion",
+      "espera pasiva",
+      "dar sin raíz",
+      "esperar pasivamente milagros",
+      "idealismo pasivo"
+    ]
+  },
+  "arquetipos": [
+    "renovacion",
+    "esperanza",
+    "integracion",
+    "generosidad",
+    "lugar_en_el_mundo"
+  ],
+  "emociones": [
+    "esperanza",
+    "paz",
+    "serenidad",
+    "devocion suave"
+  ],
+  "etapas_narrativas": [
+    "integracion",
+    "renacimiento"
+  ],
+  "tipo": "arcano_mayor",
+  "palo": null,
+  "mazo": "rider_waite_smith",
+  "imagen": "cartas/la_estrella.png",
+  "colores": {
+    "dominantes_rgb": [
+      [
+        191,
+        230,
+        246
+      ],
+      [
+        126,
+        150,
+        95
+      ],
+      [
+        243,
+        207,
+        168
+      ],
+      [
+        56,
+        65,
+        35
+      ],
+      [
+        244,
+        232,
+        33
+      ]
+    ],
+    "dominantes_hex": [
+      "#bfe6f6",
+      "#7e965f",
+      "#f3cfa8",
+      "#384123",
+      "#f4e821"
+    ],
+    "dominantes_lab": [
+      [
+        89.07422556535903,
+        -9.222076074318519,
+        -11.950214803242588
+      ],
+      [
+        59.043048979110935,
+        -18.452187284997756,
+        26.29001040571741
+      ],
+      [
+        85.25592239398117,
+        7.0834416549387935,
+        24.095028212127765
+      ],
+      [
+        25.988743660724715,
+        -9.649191463130313,
+        17.07802193570249
+      ],
+      [
+        90.34868419794032,
+        -14.648812538479717,
+        85.35321258177488
+      ]
+    ],
+    "porcentajes": [
+      0.3868366097789299,
+      0.2518902570749622,
+      0.15352487938359616,
+      0.15071649744365234,
+      0.057031756318859365
+    ],
+    "luminosidad_media": 0.7714431750953423,
+    "saturacion_media": 0.3680405109839374,
+    "temperatura_visual": "calida",
+    "histograma_hue_bins": [
+      0.12940159861741196,
+      0.16202203499675957,
+      0.1804565420897242,
+      0.010873478793115864,
+      0.006120832433210917,
+      0.00640887160653849,
+      0.4945632606034421,
+      0.005904803053215237,
+      0.0029524015266076185,
+      0.0001440195866637863,
+      0.0006480881399870382,
+      0.000504068553323252
+    ]
+  },
+  "numerologia": {
+    "numero": 17,
+    "reduccion": 8
+  },
+  "fuentes": [
+    "tradicion_rws_comparada",
+    "anotacion_laboratorio_v1",
+    "La vía del Tarot — Alejandro Jodorowsky, Marianne Costa",
+    "El tarot: del dilema a la metáfora — Miguel Ángel Díaz Canseco"
+  ],
+  "version": 3,
+  "attributions": {
+    "significados_jodorowsky": [
+      {
+        "value": "Actuar en el mundo, encontrar su sitio",
+        "source": "manual",
+        "confidence": 0.85,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_estudio_via_del_tarot"
+      }
+    ],
+    "canseco_metafora": [
+      {
+        "value": "Agua que renueva: tras la crisis, irrigar para que no haya putrefacción.",
+        "source": "manual",
+        "confidence": 0.8,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_canseco_dilema_metafora"
+      }
+    ]
+  },
+  "significados": [
+    {
+      "fuente": "La vía del Tarot",
+      "autores": [
+        "Alejandro Jodorowsky",
+        "Marianne Costa"
+      ],
+      "esencia": "Actuar en el mundo irrigándolo; encontrar el propio sitio.",
+      "subtitulo": "Actuar en el mundo, encontrar su sitio",
+      "en_lectura": "Habla de acción generosa, prosperidad posible y vínculo con lo alto sin conquista agresiva: más riego que conquista.",
+      "preguntas": [
+        "¿Cómo nutro el mundo desde mi lugar?",
+        "¿Dónde está mi sitio verdadero?"
+      ],
+      "palabras_luz": [
+        "esperanza",
+        "generosidad",
+        "fertilidad",
+        "nutrir el mundo",
+        "verdad que fluye",
+        "lugar propio"
+      ],
+      "palabras_sombra": [
+        "idealizacion",
+        "dar sin raíz",
+        "esperar pasivamente milagros"
+      ],
+      "palabras_neutrales": [
+        "irrigacion",
+        "estrellas",
+        "ofrenda"
+      ]
+    },
+    {
+      "fuente": "El tarot: del dilema a la metáfora",
+      "autores": [
+        "Miguel Ángel Díaz Canseco"
+      ],
+      "esencia": "Agua que renueva: tras la crisis, irrigar para que no haya putrefacción.",
+      "subtitulo": "Del dilema a la metáfora",
+      "en_lectura": "noche clara; alguien vierte agua bajo estrellas",
+      "preguntas": [
+        "¿Cómo nutro la vida después del golpe?"
+      ],
+      "palabras_luz": [
+        "renovacion",
+        "esperanza",
+        "purificacion",
+        "flujo"
+      ],
+      "palabras_sombra": [
+        "idealismo pasivo"
+      ],
+      "palabras_neutrales": []
+    }
+  ]
+}

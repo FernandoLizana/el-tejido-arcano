@@ -1,0 +1,267 @@
+{
+  "id": "major_08_strength",
+  "nombre": "La Fuerza",
+  "nombre_original": "Strength",
+  "numero": 8,
+  "legacy_filename": "la_fuerza.png",
+  "elementos": [
+    "fuego"
+  ],
+  "simbolos": [
+    "leon",
+    "infinito",
+    "flores",
+    "mujer",
+    "montana"
+  ],
+  "personajes": [
+    {
+      "tipo": "figura_humana",
+      "cantidad": 1,
+      "movimiento": "apaciguar"
+    },
+    {
+      "tipo": "animal",
+      "cantidad": 1,
+      "movimiento": "contencion"
+    }
+  ],
+  "direcciones": {
+    "mirada": [
+      "abajo"
+    ],
+    "movimiento": [
+      "estatico"
+    ],
+    "orientacion_general": "horizontal"
+  },
+  "palabras_clave": {
+    "neutrales": [
+      "dominio interior",
+      "instinto",
+      "coraje",
+      "segundo ciclo",
+      "instinto aliado",
+      "cuello y expresion"
+    ],
+    "luz": [
+      "compasión",
+      "paciencia",
+      "integracion",
+      "fuerza serena",
+      "dominio suave",
+      "nueva energia",
+      "inteligencia encarnada",
+      "palabra verdadera",
+      "fortaleza civil",
+      "coraje ético"
+    ],
+    "sombra": [
+      "represion",
+      "violencia",
+      "orgullo",
+      "fuerza bruta",
+      "reprimir al animal interno",
+      "orgullo de la fuerza",
+      "violencia reprimida",
+      "orgullo de fuerza"
+    ]
+  },
+  "arquetipos": [
+    "fuerza_serena",
+    "integracion",
+    "contraste_luz_sombra",
+    "nueva_energia"
+  ],
+  "emociones": [
+    "calma",
+    "coraje",
+    "ternura",
+    "calma poderosa",
+    "coraje suave",
+    "confianza"
+  ],
+  "etapas_narrativas": [
+    "prueba",
+    "integracion"
+  ],
+  "tipo": "arcano_mayor",
+  "palo": null,
+  "mazo": "rider_waite_smith",
+  "imagen": "cartas/la_fuerza.png",
+  "colores": {
+    "dominantes_rgb": [
+      [
+        252,
+        245,
+        183
+      ],
+      [
+        110,
+        90,
+        56
+      ],
+      [
+        231,
+        122,
+        59
+      ],
+      [
+        39,
+        30,
+        18
+      ],
+      [
+        156,
+        168,
+        147
+      ]
+    ],
+    "dominantes_hex": [
+      "#fcf5b7",
+      "#6e5a38",
+      "#e77a3b",
+      "#271e12",
+      "#9ca893"
+    ],
+    "dominantes_lab": [
+      [
+        95.75595916784486,
+        -6.990636122677307,
+        30.775636213361057
+      ],
+      [
+        39.43422640690842,
+        3.2414991578965657,
+        22.65200562212124
+      ],
+      [
+        62.70009118512334,
+        37.66676924175211,
+        51.85012909043027
+      ],
+      [
+        11.981757062530829,
+        2.2509550091266983,
+        9.66173027178629
+      ],
+      [
+        67.41154915401056,
+        -8.18719329447365,
+        9.419857537346621
+      ]
+    ],
+    "porcentajes": [
+      0.5291200226725238,
+      0.14227008643899675,
+      0.13610599404846252,
+      0.10344338954229843,
+      0.08906050729771858
+    ],
+    "luminosidad_media": 0.7876348612280394,
+    "saturacion_media": 0.38155496206722017,
+    "temperatura_visual": "calida",
+    "histograma_hue_bins": [
+      0.25952954513249255,
+      0.5502338104010204,
+      0.14134901516225024,
+      0.0042510982003684285,
+      0.006022389117188607,
+      0.0012753294601105286,
+      0.02472722119880969,
+      0.0026215105568938644,
+      0.006660053847243871,
+      0.0012753294601105286,
+      0.0013461810967833356,
+      0.0007085163667280714
+    ]
+  },
+  "numerologia": {
+    "numero": 8,
+    "reduccion": 8
+  },
+  "fuentes": [
+    "tradicion_rws_comparada",
+    "anotacion_laboratorio_v1",
+    "La vía del Tarot — Alejandro Jodorowsky, Marianne Costa",
+    "El tarot: del dilema a la metáfora — Miguel Ángel Díaz Canseco"
+  ],
+  "version": 3,
+  "attributions": {
+    "significados_jodorowsky": [
+      {
+        "value": "Comienzo creativo, nueva energía",
+        "source": "manual",
+        "confidence": 0.85,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_estudio_via_del_tarot"
+      }
+    ],
+    "canseco_metafora": [
+      {
+        "value": "Firmeza moral que apacigua la naturaleza sin aplastarla.",
+        "source": "manual",
+        "confidence": 0.8,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_canseco_dilema_metafora"
+      }
+    ]
+  },
+  "significados": [
+    {
+      "fuente": "La vía del Tarot",
+      "autores": [
+        "Alejandro Jodorowsky",
+        "Marianne Costa"
+      ],
+      "esencia": "Comienzo creativo de una nueva energía en la segunda serie.",
+      "subtitulo": "Comienzo creativo, nueva energía",
+      "en_lectura": "Abre un ciclo de potencias más sutiles: no aplastar, sino aliarse con la fuerza viva.",
+      "preguntas": [
+        "¿Qué nueva energía estoy aprendiendo a sostener?",
+        "¿Cómo integro instinto e inteligencia?"
+      ],
+      "palabras_luz": [
+        "fuerza serena",
+        "dominio suave",
+        "nueva energia",
+        "inteligencia encarnada",
+        "palabra verdadera"
+      ],
+      "palabras_sombra": [
+        "fuerza bruta",
+        "reprimir al animal interno",
+        "orgullo de la fuerza"
+      ],
+      "palabras_neutrales": [
+        "segundo ciclo",
+        "instinto aliado",
+        "cuello y expresion"
+      ]
+    },
+    {
+      "fuente": "El tarot: del dilema a la metáfora",
+      "autores": [
+        "Miguel Ángel Díaz Canseco"
+      ],
+      "esencia": "Firmeza moral que apacigua la naturaleza sin aplastarla.",
+      "subtitulo": "Del dilema a la metáfora",
+      "en_lectura": "encuentro íntimo con un animal poderoso; mano sobre melena",
+      "preguntas": [
+        "¿Uso fuerza bruta o coraje sereno?"
+      ],
+      "palabras_luz": [
+        "fortaleza civil",
+        "dominio suave",
+        "coraje ético"
+      ],
+      "palabras_sombra": [
+        "violencia reprimida",
+        "orgullo de fuerza"
+      ],
+      "palabras_neutrales": []
+    }
+  ]
+}

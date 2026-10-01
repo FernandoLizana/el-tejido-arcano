@@ -1,0 +1,178 @@
+{
+  "major_00_fool": {
+    "pages": [
+      74,
+      76
+    ],
+    "chars": 9313,
+    "file": "major_00_fool.txt"
+  },
+  "major_01_magician": {
+    "pages": [
+      77,
+      79
+    ],
+    "chars": 8557,
+    "file": "major_01_magician.txt"
+  },
+  "major_02_high_priestess": {
+    "pages": [
+      80,
+      82
+    ],
+    "chars": 8460,
+    "file": "major_02_high_priestess.txt"
+  },
+  "major_03_empress": {
+    "pages": [
+      83,
+      85
+    ],
+    "chars": 7793,
+    "file": "major_03_empress.txt"
+  },
+  "major_04_emperor": {
+    "pages": [
+      86,
+      88
+    ],
+    "chars": 8760,
+    "file": "major_04_emperor.txt"
+  },
+  "major_05_hierophant": {
+    "pages": [
+      89,
+      91
+    ],
+    "chars": 10313,
+    "file": "major_05_hierophant.txt"
+  },
+  "major_06_lovers": {
+    "pages": [
+      92,
+      94
+    ],
+    "chars": 10410,
+    "file": "major_06_lovers.txt"
+  },
+  "major_07_chariot": {
+    "pages": [
+      95,
+      97
+    ],
+    "chars": 8629,
+    "file": "major_07_chariot.txt"
+  },
+  "major_11_justice": {
+    "pages": [
+      98,
+      100
+    ],
+    "chars": 8323,
+    "file": "major_11_justice.txt"
+  },
+  "major_09_hermit": {
+    "pages": [
+      101,
+      103
+    ],
+    "chars": 8608,
+    "file": "major_09_hermit.txt"
+  },
+  "major_10_wheel_of_fortune": {
+    "pages": [
+      104,
+      106
+    ],
+    "chars": 9703,
+    "file": "major_10_wheel_of_fortune.txt"
+  },
+  "major_08_strength": {
+    "pages": [
+      107,
+      109
+    ],
+    "chars": 9229,
+    "file": "major_08_strength.txt"
+  },
+  "major_12_hanged_man": {
+    "pages": [
+      110,
+      112
+    ],
+    "chars": 9484,
+    "file": "major_12_hanged_man.txt"
+  },
+  "major_13_death": {
+    "pages": [
+      113,
+      116
+    ],
+    "chars": 15614,
+    "file": "major_13_death.txt"
+  },
+  "major_14_temperance": {
+    "pages": [
+      117,
+      119
+    ],
+    "chars": 9187,
+    "file": "major_14_temperance.txt"
+  },
+  "major_15_devil": {
+    "pages": [
+      120,
+      123
+    ],
+    "chars": 13092,
+    "file": "major_15_devil.txt"
+  },
+  "major_16_tower": {
+    "pages": [
+      124,
+      126
+    ],
+    "chars": 9854,
+    "file": "major_16_tower.txt"
+  },
+  "major_17_star": {
+    "pages": [
+      127,
+      129
+    ],
+    "chars": 10471,
+    "file": "major_17_star.txt"
+  },
+  "major_18_moon": {
+    "pages": [
+      130,
+      132
+    ],
+    "chars": 10281,
+    "file": "major_18_moon.txt"
+  },
+  "major_19_sun": {
+    "pages": [
+      133,
+      135
+    ],
+    "chars": 8952,
+    "file": "major_19_sun.txt"
+  },
+  "major_20_judgement": {
+    "pages": [
+      136,
+      138
+    ],
+    "chars": 9038,
+    "file": "major_20_judgement.txt"
+  },
+  "major_21_world": {
+    "pages": [
+      139,
+      141
+    ],
+    "chars": 8945,
+    "file": "major_21_world.txt"
+  }
+}

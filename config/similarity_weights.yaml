@@ -1,0 +1,49 @@
+# Pesos de similitud multidimensional (deben sumar 1.0)
+profiles:
+  equilibrado:
+    color: 0.20
+    symbols: 0.15
+    semantic: 0.20
+    archetypes: 0.15
+    emotions: 0.10
+    elements: 0.05
+    numerology: 0.05
+    narrative: 0.10
+  visual:
+    color: 0.45
+    symbols: 0.20
+    semantic: 0.10
+    archetypes: 0.05
+    emotions: 0.05
+    elements: 0.05
+    numerology: 0.05
+    narrative: 0.05
+  psicologico:
+    color: 0.05
+    symbols: 0.10
+    semantic: 0.25
+    archetypes: 0.25
+    emotions: 0.20
+    elements: 0.05
+    numerology: 0.00
+    narrative: 0.10
+  tradicional:
+    color: 0.10
+    symbols: 0.25
+    semantic: 0.15
+    archetypes: 0.20
+    emotions: 0.05
+    elements: 0.15
+    numerology: 0.10
+    narrative: 0.00
+  narrativo:
+    color: 0.05
+    symbols: 0.15
+    semantic: 0.20
+    archetypes: 0.15
+    emotions: 0.10
+    elements: 0.05
+    numerology: 0.05
+    narrative: 0.25
+
+default_profile: equilibrado

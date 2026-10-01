@@ -1,0 +1,264 @@
+{
+  "id": "major_02_high_priestess",
+  "nombre": "La Sacerdotisa",
+  "nombre_original": "The High Priestess",
+  "numero": 2,
+  "legacy_filename": "la_sacerdotisa.png",
+  "elementos": [
+    "agua"
+  ],
+  "simbolos": [
+    "columnas",
+    "velo",
+    "luna",
+    "libro",
+    "cruz",
+    "granada"
+  ],
+  "personajes": [
+    {
+      "tipo": "figura_humana",
+      "cantidad": 1,
+      "movimiento": "estatico"
+    }
+  ],
+  "direcciones": {
+    "mirada": [
+      "frente"
+    ],
+    "movimiento": [
+      "estatico"
+    ],
+    "orientacion_general": "vertical"
+  },
+  "palabras_clave": {
+    "neutrales": [
+      "misterio",
+      "intuicion",
+      "umbral",
+      "dualidad como valor propio",
+      "interioridad",
+      "libro cerrado"
+    ],
+    "luz": [
+      "sabiduria",
+      "escucha",
+      "claridad interior",
+      "gestacion",
+      "paciencia",
+      "acumulacion interior",
+      "sabiduria receptiva",
+      "misterio fecundo",
+      "conocimiento velado"
+    ],
+    "sombra": [
+      "secreto",
+      "pasividad",
+      "ocultamiento",
+      "retraso",
+      "ocultamiento excesivo",
+      "secreto que aísla",
+      "secreto paralizante",
+      "mutismo",
+      "dogma oculto"
+    ]
+  },
+  "arquetipos": [
+    "misterio",
+    "maestro_interior",
+    "busqueda_interior",
+    "gestacion"
+  ],
+  "emociones": [
+    "calma",
+    "intuicion",
+    "serenidad",
+    "espera"
+  ],
+  "etapas_narrativas": [
+    "umbrales",
+    "revelacion"
+  ],
+  "tipo": "arcano_mayor",
+  "palo": null,
+  "mazo": "rider_waite_smith",
+  "imagen": "cartas/la_sacerdotisa.png",
+  "colores": {
+    "dominantes_rgb": [
+      [
+        197,
+        212,
+        230
+      ],
+      [
+        9,
+        9,
+        5
+      ],
+      [
+        82,
+        85,
+        42
+      ],
+      [
+        129,
+        135,
+        143
+      ],
+      [
+        193,
+        203,
+        24
+      ]
+    ],
+    "dominantes_hex": [
+      "#c5d4e6",
+      "#090905",
+      "#52552a",
+      "#81878f",
+      "#c1cb18"
+    ],
+    "dominantes_lab": [
+      [
+        84.31308787773489,
+        -1.4523957974080792,
+        -10.566462228647989
+      ],
+      [
+        2.3884191825692334,
+        -0.556222740067086,
+        1.513824356599447
+      ],
+      [
+        34.91933648553292,
+        -8.447535938447492,
+        24.528142722740675
+      ],
+      [
+        56.06575920278648,
+        -0.5291335177682877,
+        -5.038972886681425
+      ],
+      [
+        78.52949063918732,
+        -22.092579393067467,
+        75.80511874686027
+      ]
+    ],
+    "porcentajes": [
+      0.366237687828025,
+      0.24545258465741607,
+      0.19332806096771873,
+      0.12574591990797326,
+      0.06923574663886692
+    ],
+    "luminosidad_media": 0.5407811841394836,
+    "saturacion_media": 0.2964601104111218,
+    "temperatura_visual": "neutra",
+    "histograma_hue_bins": [
+      0.17880509022934787,
+      0.07038608095477747,
+      0.18937378675677616,
+      0.0037385865267093245,
+      0.002084980947587892,
+      0.0005032712632108705,
+      0.1877201811776547,
+      0.3474009634049895,
+      0.017902077791358113,
+      0.00014379178948882015,
+      0.0015098137896326115,
+      0.0004313753684664605
+    ]
+  },
+  "numerologia": {
+    "numero": 2,
+    "reduccion": 2
+  },
+  "fuentes": [
+    "tradicion_rws_comparada",
+    "anotacion_laboratorio_v1",
+    "La vía del Tarot — Alejandro Jodorowsky, Marianne Costa",
+    "El tarot: del dilema a la metáfora — Miguel Ángel Díaz Canseco"
+  ],
+  "version": 3,
+  "attributions": {
+    "significados_jodorowsky": [
+      {
+        "value": "Gestación, acumulación",
+        "source": "manual",
+        "confidence": 0.85,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_estudio_via_del_tarot"
+      }
+    ],
+    "canseco_metafora": [
+      {
+        "value": "Umbral velado: lo sagrado se gesta en silencio antes de hablar.",
+        "source": "manual",
+        "confidence": 0.8,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_canseco_dilema_metafora"
+      }
+    ]
+  },
+  "significados": [
+    {
+      "fuente": "La vía del Tarot",
+      "autores": [
+        "Alejandro Jodorowsky",
+        "Marianne Costa"
+      ],
+      "esencia": "Gestación y acumulación silenciosa antes de mostrarse.",
+      "subtitulo": "Gestación, acumulación",
+      "en_lectura": "Sugiere un proceso interno, estudiar, esperar o guardar. La toma de conciencia pasa también por el cuerpo y lo silencioso.",
+      "preguntas": [
+        "¿Qué estoy gestando aún sin mostrar?",
+        "¿Qué necesito acumular antes de actuar?"
+      ],
+      "palabras_luz": [
+        "gestacion",
+        "paciencia",
+        "acumulacion interior",
+        "escucha",
+        "sabiduria receptiva",
+        "misterio fecundo"
+      ],
+      "palabras_sombra": [
+        "retraso",
+        "ocultamiento excesivo",
+        "pasividad",
+        "secreto que aísla"
+      ],
+      "palabras_neutrales": [
+        "dualidad como valor propio",
+        "interioridad",
+        "libro cerrado"
+      ]
+    },
+    {
+      "fuente": "El tarot: del dilema a la metáfora",
+      "autores": [
+        "Miguel Ángel Díaz Canseco"
+      ],
+      "esencia": "Umbral velado: lo sagrado se gesta en silencio antes de hablar.",
+      "subtitulo": "Del dilema a la metáfora",
+      "en_lectura": "interior en penumbra; una figura guarda un libro cerrado",
+      "preguntas": [
+        "¿Escucho lo que aún no tiene palabras?"
+      ],
+      "palabras_luz": [
+        "misterio fecundo",
+        "paciencia",
+        "conocimiento velado"
+      ],
+      "palabras_sombra": [
+        "secreto paralizante",
+        "mutismo",
+        "dogma oculto"
+      ],
+      "palabras_neutrales": []
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "id": "major_05_hierophant",
+  "nombre": "El Hierofante",
+  "nombre_original": "The Hierophant",
+  "numero": 5,
+  "legacy_filename": "el_hierofante.png",
+  "elementos": [
+    "tierra"
+  ],
+  "simbolos": [
+    "pilares",
+    "llave",
+    "bendicion",
+    "trono",
+    "acolitos",
+    "cruz"
+  ],
+  "personajes": [
+    {
+      "tipo": "figura_humana",
+      "cantidad": 1,
+      "movimiento": "enseñanza"
+    },
+    {
+      "tipo": "figura_humana",
+      "cantidad": 2,
+      "movimiento": "escucha"
+    }
+  ],
+  "direcciones": {
+    "mirada": [
+      "frente"
+    ],
+    "movimiento": [
+      "estatico"
+    ],
+    "orientacion_general": "vertical"
+  },
+  "palabras_clave": {
+    "neutrales": [
+      "tradicion",
+      "enseñanza",
+      "rito",
+      "maestro",
+      "acólitos",
+      "mediacion"
+    ],
+    "luz": [
+      "guia",
+      "pertenencia",
+      "conocimiento",
+      "ensenanza",
+      "puente",
+      "ideal vivido",
+      "transmision",
+      "bendicion",
+      "confirmacion",
+      "ritual"
+    ],
+    "sombra": [
+      "dogma",
+      "conformismo",
+      "jerarquia",
+      "idealizacion del padre",
+      "autoridad ciega",
+      "ritual vacio",
+      "inflexibilidad"
+    ]
+  },
+  "arquetipos": [
+    "maestro_interior",
+    "orden_natural",
+    "vocacion",
+    "mediador",
+    "maestro",
+    "puente"
+  ],
+  "emociones": [
+    "reverencia",
+    "confianza",
+    "duda",
+    "pertenencia"
+  ],
+  "etapas_narrativas": [
+    "desarrollo",
+    "prueba"
+  ],
+  "tipo": "arcano_mayor",
+  "palo": null,
+  "mazo": "rider_waite_smith",
+  "imagen": "cartas/el_hierofante.png",
+  "colores": {
+    "dominantes_rgb": [
+      [
+        67,
+        35,
+        30
+      ],
+      [
+        216,
+        220,
+        225
+      ],
+      [
+        125,
+        127,
+        128
+      ],
+      [
+        215,
+        51,
+        54
+      ],
+      [
+        203,
+        203,
+        2
+      ]
+    ],
+    "dominantes_hex": [
+      "#43231e",
+      "#d8dce1",
+      "#7d7f80",
+      "#d73336",
+      "#cbcb02"
+    ],
+    "dominantes_lab": [
+      [
+        17.870550054331787,
+        14.617124950471627,
+        10.002847190962516
+      ],
+      [
+        87.59240182496504,
+        -0.4259011465717055,
+        -2.9175730306777226
+      ],
+      [
+        53.055678989357105,
+        -0.5444176111004673,
+        -0.8034645459102263
+      ],
+      [
+        48.367926105566454,
+        62.520629301329954,
+        38.35170923284389
+      ],
+      [
+        79.2792890639881,
+        -18.130492073561545,
+        79.36962709509439
+      ]
+    ],
+    "porcentajes": [
+      0.2724890829694323,
+      0.262882096069869,
+      0.2175400291120815,
+      0.1970887918486172,
+      0.05
+    ],
+    "luminosidad_media": 0.6256640123298228,
+    "saturacion_media": 0.37513558061844454,
+    "temperatura_visual": "calida",
+    "histograma_hue_bins": [
+      0.12336244541484714,
+      0.04381368267831149,
+      0.06608442503639009,
+      0.0009461426491994176,
+      0.0028384279475982526,
+      0.002983988355167394,
+      0.20203784570596794,
+      0.23973799126637552,
+      0.03129548762736535,
+      0.0024017467248908294,
+      0.011062590975254728,
+      0.27343522561863165
+    ]
+  },
+  "numerologia": {
+    "numero": 5,
+    "reduccion": 5
+  },
+  "fuentes": [
+    "tradicion_rws_comparada",
+    "anotacion_laboratorio_v1",
+    "La vía del Tarot — Alejandro Jodorowsky, Marianne Costa",
+    "El tarot: del dilema a la metáfora — Miguel Ángel Díaz Canseco"
+  ],
+  "version": 3,
+  "attributions": {
+    "significados_jodorowsky": [
+      {
+        "value": "Mediador, puente, ideal",
+        "source": "manual",
+        "confidence": 0.85,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_estudio_via_del_tarot"
+      }
+    ],
+    "canseco_metafora": [
+      {
+        "value": "Puente ritual: enseñar un ideal y confirmar a la comunidad.",
+        "source": "manual",
+        "confidence": 0.8,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_canseco_dilema_metafora"
+      }
+    ]
+  },
+  "significados": [
+    {
+      "fuente": "La vía del Tarot",
+      "autores": [
+        "Alejandro Jodorowsky",
+        "Marianne Costa"
+      ],
+      "esencia": "Mediador, puente e ideal que une cielo y tierra.",
+      "subtitulo": "Mediador, puente, ideal",
+      "en_lectura": "Puede ser un maestro, una enseñanza, una figura paterna idealizada o el deseo de transmitir un valor.",
+      "preguntas": [
+        "¿A qué ideal estoy tendiendo un puente?",
+        "¿Quién o qué me está guiando?"
+      ],
+      "palabras_luz": [
+        "guia",
+        "ensenanza",
+        "puente",
+        "ideal vivido",
+        "transmision",
+        "bendicion"
+      ],
+      "palabras_sombra": [
+        "dogma",
+        "idealizacion del padre",
+        "autoridad ciega",
+        "ritual vacio"
+      ],
+      "palabras_neutrales": [
+        "maestro",
+        "tradicion",
+        "acólitos",
+        "mediacion"
+      ]
+    },
+    {
+      "fuente": "El tarot: del dilema a la metáfora",
+      "autores": [
+        "Miguel Ángel Díaz Canseco"
+      ],
+      "esencia": "Puente ritual: enseñar un ideal y confirmar a la comunidad.",
+      "subtitulo": "Del dilema a la metáfora",
+      "en_lectura": "escena de aprendizaje; dos figuras miran a un maestro",
+      "preguntas": [
+        "¿Transmito una tradición viva o solo obediencia?"
+      ],
+      "palabras_luz": [
+        "guia",
+        "confirmacion",
+        "transmision",
+        "ritual"
+      ],
+      "palabras_sombra": [
+        "inflexibilidad",
+        "autoridad ciega"
+      ],
+      "palabras_neutrales": []
+    }
+  ]
+}

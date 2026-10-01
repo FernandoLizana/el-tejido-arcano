@@ -1,0 +1,164 @@
+{
+  "source": {
+    "title": "El tarot: del dilema a la metáfora",
+    "authors": ["Miguel Ángel Díaz Canseco"],
+    "year": 2016,
+    "note": "Paráfrasis de estudio para el laboratorio. El foco es narrativo, histórico y metafórico; no adivinatorio."
+  },
+  "cards": {
+    "major_00_fool": {
+      "metafora": "El espejo irreverente del bufón: decir la verdad con insolencia y ligereza.",
+      "dilema": "¿Me atrevo a salir sin mapa, aun pareciendo loco?",
+      "luz": ["peregrinaje", "verdad irreverente", "ligereza", "apertura sagrada"],
+      "sombra": ["despiste", "crueldad disfrazada de risa", "descuido"],
+      "cinema": "plano de apertura: alguien cruza un umbral sin saber a dónde"
+    },
+    "major_01_magician": {
+      "metafora": "Mesa de herramientas: ilusión hábil o Hermes que abre puertas.",
+      "dilema": "¿Estoy creando o solo distrayendo con trucos?",
+      "luz": ["ingenio", "inicio hábil", "mediacion hermetica", "técnica"],
+      "sombra": ["charlataneria", "engaño", "distracción"],
+      "cinema": "primer plano de manos que eligen un objeto y cambian la escena"
+    },
+    "major_02_high_priestess": {
+      "metafora": "Umbral velado: lo sagrado se gesta en silencio antes de hablar.",
+      "dilema": "¿Escucho lo que aún no tiene palabras?",
+      "luz": ["misterio fecundo", "paciencia", "conocimiento velado"],
+      "sombra": ["secreto paralizante", "mutismo", "dogma oculto"],
+      "cinema": "interior en penumbra; una figura guarda un libro cerrado"
+    },
+    "major_03_empress": {
+      "metafora": "Poder que florece: fertilidad, amor y cuerpo que genera mundo.",
+      "dilema": "¿Qué quiero hacer crecer sin controlarlo todo?",
+      "luz": ["fertilidad", "cuidado", "belleza generativa", "regazo del mundo"],
+      "sombra": ["sobreprotección", "exceso sensual sin forma"],
+      "cinema": "jardín que irrumpe; la cámara descubre verdes y nacimientos"
+    },
+    "major_04_emperor": {
+      "metafora": "Cetro sereno: reinar con orden, no con espada.",
+      "dilema": "¿Mi estructura sostiene o encierra?",
+      "luz": ["orden racional", "estabilidad", "autoridad serena"],
+      "sombra": ["dominio rígido", "poder sin calor"],
+      "cinema": "trono amplio; planos geométricos, límites claros"
+    },
+    "major_05_hierophant": {
+      "metafora": "Puente ritual: enseñar un ideal y confirmar a la comunidad.",
+      "dilema": "¿Transmito una tradición viva o solo obediencia?",
+      "luz": ["guia", "confirmacion", "transmision", "ritual"],
+      "sombra": ["inflexibilidad", "autoridad ciega"],
+      "cinema": "escena de aprendizaje; dos figuras miran a un maestro"
+    },
+    "major_06_lovers": {
+      "metafora": "Cruce de Hércules: virtud y deseo piden una elección.",
+      "dilema": "¿Qué amor elijo cuando dos caminos me llaman?",
+      "luz": ["eleccion del corazon", "vinculo", "valores"],
+      "sombra": ["tentacion", "indecision", "compra de deseos"],
+      "cinema": "dos caminos visuales; el protagonista duda en el cruce"
+    },
+    "major_07_chariot": {
+      "metafora": "Dos corceles: dirigir fuerzas opuestas sin perder el rumbo.",
+      "dilema": "¿Domino mis impulsos o ellos me arrastran?",
+      "luz": ["dominio", "avance", "volicion", "triunfo movil"],
+      "sombra": ["precipitacion", "tironeo interno"],
+      "cinema": "travelling hacia adelante; el héroe avanza entre tensiones"
+    },
+    "major_08_strength": {
+      "metafora": "Firmeza moral que apacigua la naturaleza sin aplastarla.",
+      "dilema": "¿Uso fuerza bruta o coraje sereno?",
+      "luz": ["fortaleza civil", "dominio suave", "coraje ético"],
+      "sombra": ["violencia reprimida", "orgullo de fuerza"],
+      "cinema": "encuentro íntimo con un animal poderoso; mano sobre melena"
+    },
+    "major_09_hermit": {
+      "metafora": "Carruaje filosófico de cuatro ruedas: experiencia, estudio, raciocinio, lectura.",
+      "dilema": "¿Qué sabiduría puedo cargar solo, con la lámpara?",
+      "luz": ["revelacion interior", "estudio", "soledad fertil"],
+      "sombra": ["aislamiento", "desconfianza del mundo"],
+      "cinema": "noche; una luz pequeña avanza por un camino estrecho"
+    },
+    "major_10_wheel_of_fortune": {
+      "metafora": "Un solo personaje en lo alto y abajo: la contingencia da vueltas.",
+      "dilema": "¿En qué punto del giro estoy hoy?",
+      "luz": ["cambio de ciclo", "oportunidad", "movilidad"],
+      "sombra": ["vaiven", "ilusion de control"],
+      "cinema": "montaje circular; subidas y caídas del mismo rostro"
+    },
+    "major_11_justice": {
+      "metafora": "Espada y balanza: medida y consecuencia a la vista.",
+      "dilema": "¿Qué necesita un ajuste justo, no vengativo?",
+      "luz": ["equilibrio", "claridad", "medida"],
+      "sombra": ["retribucion dura", "juicio sin compasion"],
+      "cinema": "corte seco; un objeto se pesa, una decisión cae"
+    },
+    "major_12_hanged_man": {
+      "metafora": "Castigo hecho espera: mirar el mundo al revés hasta otra absolución.",
+      "dilema": "¿Qué gano si dejo de forcejear un momento?",
+      "luz": ["paciencia", "otra mirada", "suspension fertil"],
+      "sombra": ["castigo interior", "inmovilidad amarga"],
+      "cinema": "cámara invertida; el tiempo parece detenido"
+    },
+    "major_13_death": {
+      "metafora": "Tejido de horas: muda continua donde vida y muerte se trenzan.",
+      "dilema": "¿Qué forma ya pidió renacer?",
+      "luz": ["mutacion", "corte", "renacimiento"],
+      "sombra": ["negacion del cambio", "miedo literalista"],
+      "cinema": "fundido a negro y corte a una escena nueva"
+    },
+    "major_14_temperance": {
+      "metafora": "Trasvase del alma: reordenar el flujo después del corte.",
+      "dilema": "¿Qué mezclar con medida para sanar?",
+      "luz": ["moderacion", "alquimia suave", "renacimiento fluido"],
+      "sombra": ["dilucion", "evitar el conflicto"],
+      "cinema": "fundido largo; dos líquidos se encuentran en un vaso"
+    },
+    "major_15_devil": {
+      "metafora": "Prisión de impulsos — o duende que tienta a mirar la sombra.",
+      "dilema": "¿Qué deseo me ata y qué creatividad esconde?",
+      "luz": ["pasion consciente", "conocer la sombra"],
+      "sombra": ["compulsion", "prision demoniaca interior"],
+      "cinema": "luz rojiza; cadenas que también parecen hilos creativos"
+    },
+    "major_16_tower": {
+      "metafora": "Torre de Babel interior: la soberbia se abre por un rayo.",
+      "dilema": "¿Qué estructura pedía abrirse, aunque duela?",
+      "luz": ["apertura brusca", "caida de soberbia", "revelacion"],
+      "sombra": ["caos", "hubris castigada"],
+      "cinema": "explosión de luz; figuras caen y el encuadre se abre"
+    },
+    "major_17_star": {
+      "metafora": "Agua que renueva: tras la crisis, irrigar para que no haya putrefacción.",
+      "dilema": "¿Cómo nutro la vida después del golpe?",
+      "luz": ["renovacion", "esperanza", "purificacion", "flujo"],
+      "sombra": ["idealismo pasivo"],
+      "cinema": "noche clara; alguien vierte agua bajo estrellas"
+    },
+    "major_18_moon": {
+      "metafora": "Camino entre perros del día y la noche: fidelidad, miedo y sueño.",
+      "dilema": "¿Qué ilusión me guía y cuál me muerde?",
+      "luz": ["intuicion nocturna", "peregrinaje anima"],
+      "sombra": ["confusion", "terrores suaves"],
+      "cinema": "neblina azul; aullidos y un camino entre torres"
+    },
+    "major_19_sun": {
+      "metafora": "Redención luminosa tras la luna: concordia y claridad.",
+      "dilema": "¿Qué quiero construir a plena luz?",
+      "luz": ["concordia", "claridad", "juego solar"],
+      "sombra": ["exceso de brillo", "ingenuidad"],
+      "cinema": "exterior radiante; dos figuras se hallan sin máscara"
+    },
+    "major_20_judgement": {
+      "metafora": "Abrir y cerrar capítulos: llamada a una nueva escena de vida.",
+      "dilema": "¿Qué capítulo pide cerrarse con honestidad?",
+      "luz": ["llamada", "renacer narrativo", "despertar"],
+      "sombra": ["juicio cruel", "nostalgia que no suelta"],
+      "cinema": "trompeta fuera de campo; cuerpos se levantan hacia la luz"
+    },
+    "major_21_world": {
+      "metafora": "Huevo órfico: lo infinito y lo finito danzan en una ciudad soñada.",
+      "dilema": "¿Qué totalidad estoy a punto de integrar?",
+      "luz": ["totalidad", "danza cosmica", "obra cumplida"],
+      "sombra": ["cierre prematuro", "perfeccionismo"],
+      "cinema": "plano final circular; el personaje danza dentro de un marco vivo"
+    }
+  }
+}

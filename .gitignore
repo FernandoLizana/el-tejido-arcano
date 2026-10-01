@@ -1,0 +1,56 @@
+# Virtual environments
+env/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+dist/
+build/
+
+# Secrets & local env (never commit real secrets)
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+!.env.example
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Caches & generated graphs
+data/cache/
+*.html
+!docs/**
+
+# Private / copyrighted source extracts (rebuild locally from owned PDFs)
+data/sources/jodorowsky/via_del_tarot_full.txt
+data/sources/jodorowsky/major_*.txt
+data/sources/canseco/majors_extract.txt
+data/sources/neuro/*_front.txt
+data/sources/neuro/*_hits.txt
+data/sources/neuro/*_meta.txt
+data/sources/pdfs/
+*.pdf
+
+# Logs & OS
+*.log
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Optional local media (keep demo video tracked if desired; ignore extras)
+# video_grafos.mp4

@@ -1,0 +1,263 @@
+{
+  "id": "major_15_devil",
+  "nombre": "El Diablo",
+  "nombre_original": "The Devil",
+  "numero": 15,
+  "legacy_filename": "el_diablo.png",
+  "elementos": [
+    "tierra"
+  ],
+  "simbolos": [
+    "cadenas",
+    "antorcha",
+    "cuernos",
+    "invertido",
+    "pareja",
+    "pedestal"
+  ],
+  "personajes": [
+    {
+      "tipo": "figura_diabolica",
+      "cantidad": 1,
+      "movimiento": "dominio"
+    },
+    {
+      "tipo": "pareja",
+      "cantidad": 2,
+      "movimiento": "atadura"
+    }
+  ],
+  "direcciones": {
+    "mirada": [
+      "frente"
+    ],
+    "movimiento": [
+      "estatico"
+    ],
+    "orientacion_general": "vertical"
+  },
+  "palabras_clave": {
+    "neutrales": [
+      "atadura",
+      "deseo",
+      "sombra",
+      "inconsciente",
+      "magma"
+    ],
+    "luz": [
+      "conciencia",
+      "humor",
+      "liberacion posible",
+      "pasion creadora",
+      "conocer la sombra",
+      "energia vital densa",
+      "tentacion como llamado",
+      "pasion consciente"
+    ],
+    "sombra": [
+      "adiccion",
+      "manipulacion",
+      "materialismo",
+      "atadura",
+      "compulsion",
+      "materialismo viscoso",
+      "dependencia",
+      "prision demoniaca interior"
+    ]
+  },
+  "arquetipos": [
+    "sombra",
+    "contraste_luz_sombra",
+    "rebeldia",
+    "pasion",
+    "inconsciente"
+  ],
+  "emociones": [
+    "deseo",
+    "miedo",
+    "fascinacion",
+    "excitacion"
+  ],
+  "etapas_narrativas": [
+    "conflicto",
+    "crisis"
+  ],
+  "tipo": "arcano_mayor",
+  "palo": null,
+  "mazo": "rider_waite_smith",
+  "imagen": "cartas/el_diablo.png",
+  "colores": {
+    "dominantes_rgb": [
+      [
+        7,
+        5,
+        3
+      ],
+      [
+        92,
+        66,
+        35
+      ],
+      [
+        217,
+        135,
+        60
+      ],
+      [
+        230,
+        212,
+        174
+      ],
+      [
+        135,
+        134,
+        114
+      ]
+    ],
+    "dominantes_hex": [
+      "#070503",
+      "#5c4223",
+      "#d9873c",
+      "#e6d4ae",
+      "#878672"
+    ],
+    "dominantes_lab": [
+      [
+        1.4479161046999458,
+        0.24489364288986237,
+        0.9411920030060472
+      ],
+      [
+        30.141349127210255,
+        7.306034668319611,
+        23.064068940256476
+      ],
+      [
+        63.68005407419791,
+        25.20998127735119,
+        51.82401952459244
+      ],
+      [
+        85.48753906993126,
+        0.38045777143980164,
+        21.090326716241
+      ],
+      [
+        55.49848001862918,
+        -3.2777818747141696,
+        10.924755491936612
+      ]
+    ],
+    "porcentajes": [
+      0.4061913043478261,
+      0.17947826086956523,
+      0.17829565217391305,
+      0.16772173913043478,
+      0.06831304347826087
+    ],
+    "luminosidad_media": 0.4175667178175618,
+    "saturacion_media": 0.38635319370338256,
+    "temperatura_visual": "calida",
+    "histograma_hue_bins": [
+      0.5523478260869565,
+      0.34678260869565214,
+      0.0447304347826087,
+      0.008556521739130435,
+      0.005704347826086956,
+      0.002156521739130435,
+      0.03297391304347826,
+      0.001808695652173913,
+      0.003617391304347826,
+      0.0,
+      0.0005565217391304347,
+      0.0007652173913043478
+    ]
+  },
+  "numerologia": {
+    "numero": 15,
+    "reduccion": 6
+  },
+  "fuentes": [
+    "tradicion_rws_comparada",
+    "anotacion_laboratorio_v1",
+    "La vía del Tarot — Alejandro Jodorowsky, Marianne Costa",
+    "El tarot: del dilema a la metáfora — Miguel Ángel Díaz Canseco"
+  ],
+  "version": 3,
+  "attributions": {
+    "significados_jodorowsky": [
+      {
+        "value": "Fuerzas del inconsciente, pasión, creatividad",
+        "source": "manual",
+        "confidence": 0.85,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_estudio_via_del_tarot"
+      }
+    ],
+    "canseco_metafora": [
+      {
+        "value": "Prisión de impulsos — o duende que tienta a mirar la sombra.",
+        "source": "manual",
+        "confidence": 0.8,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_canseco_dilema_metafora"
+      }
+    ]
+  },
+  "significados": [
+    {
+      "fuente": "La vía del Tarot",
+      "autores": [
+        "Alejandro Jodorowsky",
+        "Marianne Costa"
+      ],
+      "esencia": "Fuerzas del inconsciente, pasión y creatividad oscura.",
+      "subtitulo": "Fuerzas del inconsciente, pasión, creatividad",
+      "en_lectura": "No es solo 'maldad': puede ser la potencia cruda del deseo y de lo no mirado. Pide conciencia, no negación.",
+      "preguntas": [
+        "¿Qué parte oculta me está tentando a crear?",
+        "¿Dónde confundo pasión con prisión?"
+      ],
+      "palabras_luz": [
+        "pasion creadora",
+        "conocer la sombra",
+        "energia vital densa",
+        "tentacion como llamado"
+      ],
+      "palabras_sombra": [
+        "atadura",
+        "compulsion",
+        "materialismo viscoso",
+        "dependencia"
+      ],
+      "palabras_neutrales": [
+        "inconsciente",
+        "deseo",
+        "magma"
+      ]
+    },
+    {
+      "fuente": "El tarot: del dilema a la metáfora",
+      "autores": [
+        "Miguel Ángel Díaz Canseco"
+      ],
+      "esencia": "Prisión de impulsos — o duende que tienta a mirar la sombra.",
+      "subtitulo": "Del dilema a la metáfora",
+      "en_lectura": "luz rojiza; cadenas que también parecen hilos creativos",
+      "preguntas": [
+        "¿Qué deseo me ata y qué creatividad esconde?"
+      ],
+      "palabras_luz": [
+        "pasion consciente",
+        "conocer la sombra"
+      ],
+      "palabras_sombra": [
+        "compulsion",
+        "prision demoniaca interior"
+      ],
+      "palabras_neutrales": []
+    }
+  ]
+}

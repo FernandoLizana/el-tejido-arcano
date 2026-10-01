@@ -1,0 +1,264 @@
+{
+  "id": "major_03_empress",
+  "nombre": "La Emperatriz",
+  "nombre_original": "The Empress",
+  "numero": 3,
+  "legacy_filename": "la_emperatriz.png",
+  "elementos": [
+    "tierra"
+  ],
+  "simbolos": [
+    "trono",
+    "trigo",
+    "jardin",
+    "venus",
+    "corona",
+    "rio"
+  ],
+  "personajes": [
+    {
+      "tipo": "figura_humana",
+      "cantidad": 1,
+      "movimiento": "reposo"
+    }
+  ],
+  "direcciones": {
+    "mirada": [
+      "frente"
+    ],
+    "movimiento": [
+      "estatico"
+    ],
+    "orientacion_general": "horizontal"
+  },
+  "palabras_clave": {
+    "neutrales": [
+      "abundancia",
+      "naturaleza",
+      "cuerpo",
+      "estallido",
+      "verde de la tierra"
+    ],
+    "luz": [
+      "cuidado",
+      "creatividad",
+      "fertilidad",
+      "expresion",
+      "fecundidad",
+      "nacimiento perpetuo",
+      "belleza vital",
+      "expansion",
+      "belleza generativa",
+      "regazo del mundo"
+    ],
+    "sombra": [
+      "exceso",
+      "dependencia",
+      "estancamiento",
+      "dispersion creativa",
+      "exceso sin forma",
+      "inmadurez expresiva",
+      "sobreprotección",
+      "exceso sensual sin forma"
+    ]
+  },
+  "arquetipos": [
+    "fertilidad",
+    "cuidado",
+    "creacion",
+    "expresion"
+  ],
+  "emociones": [
+    "ternura",
+    "plenitud",
+    "amor",
+    "alegria",
+    "deseo de crear",
+    "vitalidad"
+  ],
+  "etapas_narrativas": [
+    "desarrollo",
+    "integracion"
+  ],
+  "tipo": "arcano_mayor",
+  "palo": null,
+  "mazo": "rider_waite_smith",
+  "imagen": "cartas/la_emperatriz.png",
+  "colores": {
+    "dominantes_rgb": [
+      [
+        240,
+        239,
+        200
+      ],
+      [
+        40,
+        27,
+        17
+      ],
+      [
+        95,
+        97,
+        66
+      ],
+      [
+        163,
+        159,
+        122
+      ],
+      [
+        181,
+        43,
+        41
+      ]
+    ],
+    "dominantes_hex": [
+      "#f0efc8",
+      "#281b11",
+      "#5f6142",
+      "#a39f7a",
+      "#b52b29"
+    ],
+    "dominantes_lab": [
+      [
+        93.63658929593946,
+        -6.006477013892453,
+        19.03472979442693
+      ],
+      [
+        11.103341071725243,
+        4.806373223949098,
+        9.069127474224182
+      ],
+      [
+        40.20627178264034,
+        -6.403709862427137,
+        17.466827968497455
+      ],
+      [
+        64.95341973255331,
+        -4.706898355079203,
+        19.88789108905813
+      ],
+      [
+        40.75920855820076,
+        54.33375697712495,
+        35.576736339625946
+      ]
+    ],
+    "porcentajes": [
+      0.27096999302163294,
+      0.2597348220516399,
+      0.21877180739706908,
+      0.16406140963014654,
+      0.08646196789951151
+    ],
+    "luminosidad_media": 0.5638430277903206,
+    "saturacion_media": 0.39977704741036113,
+    "temperatura_visual": "calida",
+    "histograma_hue_bins": [
+      0.18967201674808093,
+      0.2674110258199582,
+      0.21290997906489884,
+      0.013886950453593859,
+      0.00642009769713887,
+      0.004954640614096302,
+      0.2179344033496162,
+      0.02128401953942777,
+      0.006699232379623169,
+      0.0006280530355896721,
+      0.001953942777390091,
+      0.056245638520586186
+    ]
+  },
+  "numerologia": {
+    "numero": 3,
+    "reduccion": 3
+  },
+  "fuentes": [
+    "tradicion_rws_comparada",
+    "anotacion_laboratorio_v1",
+    "La vía del Tarot — Alejandro Jodorowsky, Marianne Costa",
+    "El tarot: del dilema a la metáfora — Miguel Ángel Díaz Canseco"
+  ],
+  "version": 3,
+  "attributions": {
+    "significados_jodorowsky": [
+      {
+        "value": "Estallido creativo, expresión",
+        "source": "manual",
+        "confidence": 0.85,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_estudio_via_del_tarot"
+      }
+    ],
+    "canseco_metafora": [
+      {
+        "value": "Poder que florece: fertilidad, amor y cuerpo que genera mundo.",
+        "source": "manual",
+        "confidence": 0.8,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_canseco_dilema_metafora"
+      }
+    ]
+  },
+  "significados": [
+    {
+      "fuente": "La vía del Tarot",
+      "autores": [
+        "Alejandro Jodorowsky",
+        "Marianne Costa"
+      ],
+      "esencia": "Estallido creativo y expresión sin finalidad rígida.",
+      "subtitulo": "Estallido creativo, expresión",
+      "en_lectura": "Puede hablar de creatividad, fertilidad de ideas o de una energía que irrumpe. No exige un plan perfecto: exige dejar salir la forma.",
+      "preguntas": [
+        "¿Qué quiere nacer a través de mí?",
+        "¿Dónde necesito expresarme sin controlarlo todo?"
+      ],
+      "palabras_luz": [
+        "creatividad",
+        "expresion",
+        "fecundidad",
+        "nacimiento perpetuo",
+        "belleza vital",
+        "expansion"
+      ],
+      "palabras_sombra": [
+        "dispersion creativa",
+        "exceso sin forma",
+        "inmadurez expresiva"
+      ],
+      "palabras_neutrales": [
+        "estallido",
+        "naturaleza",
+        "verde de la tierra"
+      ]
+    },
+    {
+      "fuente": "El tarot: del dilema a la metáfora",
+      "autores": [
+        "Miguel Ángel Díaz Canseco"
+      ],
+      "esencia": "Poder que florece: fertilidad, amor y cuerpo que genera mundo.",
+      "subtitulo": "Del dilema a la metáfora",
+      "en_lectura": "jardín que irrumpe; la cámara descubre verdes y nacimientos",
+      "preguntas": [
+        "¿Qué quiero hacer crecer sin controlarlo todo?"
+      ],
+      "palabras_luz": [
+        "fertilidad",
+        "cuidado",
+        "belleza generativa",
+        "regazo del mundo"
+      ],
+      "palabras_sombra": [
+        "sobreprotección",
+        "exceso sensual sin forma"
+      ],
+      "palabras_neutrales": []
+    }
+  ]
+}

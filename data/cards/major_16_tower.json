@@ -1,0 +1,260 @@
+{
+  "id": "major_16_tower",
+  "nombre": "La Torre",
+  "nombre_original": "The Tower",
+  "numero": 16,
+  "legacy_filename": "la_torre.png",
+  "elementos": [
+    "fuego"
+  ],
+  "simbolos": [
+    "torre",
+    "rayo",
+    "corona",
+    "fuego",
+    "caida",
+    "nubes"
+  ],
+  "personajes": [
+    {
+      "tipo": "figura_humana",
+      "cantidad": 2,
+      "movimiento": "caida"
+    }
+  ],
+  "direcciones": {
+    "mirada": [],
+    "movimiento": [
+      "descendente"
+    ],
+    "orientacion_general": "vertical"
+  },
+  "palabras_clave": {
+    "neutrales": [
+      "ruptura",
+      "revelacion",
+      "cambio abrupto",
+      "casa de dios",
+      "emergencia",
+      "estructura abierta"
+    ],
+    "luz": [
+      "liberacion",
+      "verdad",
+      "despertar",
+      "apertura",
+      "expresion contenida",
+      "alivio",
+      "salida al exterior",
+      "apertura brusca",
+      "caida de soberbia",
+      "revelacion"
+    ],
+    "sombra": [
+      "destruccion",
+      "resistencia",
+      "caos",
+      "ruptura brusca",
+      "caos de mudanza",
+      "torre que se resistia",
+      "hubris castigada"
+    ]
+  },
+  "arquetipos": [
+    "derrumbe_de_estructuras",
+    "liberacion_forzada",
+    "crisis",
+    "apertura",
+    "emergencia"
+  ],
+  "emociones": [
+    "miedo",
+    "shock",
+    "alivio",
+    "liberacion"
+  ],
+  "etapas_narrativas": [
+    "crisis",
+    "ruptura",
+    "transformacion"
+  ],
+  "tipo": "arcano_mayor",
+  "palo": null,
+  "mazo": "rider_waite_smith",
+  "imagen": "cartas/la_torre.png",
+  "colores": {
+    "dominantes_rgb": [
+      [
+        7,
+        6,
+        5
+      ],
+      [
+        224,
+        222,
+        212
+      ],
+      [
+        97,
+        84,
+        68
+      ],
+      [
+        163,
+        172,
+        175
+      ],
+      [
+        230,
+        208,
+        36
+      ]
+    ],
+    "dominantes_hex": [
+      "#070605",
+      "#e0ded4",
+      "#615444",
+      "#a3acaf",
+      "#e6d024"
+    ],
+    "dominantes_lab": [
+      [
+        1.683569948540935,
+        0.12244640781915173,
+        0.4705961669533354
+      ],
+      [
+        88.37307354406529,
+        -1.0679876344686923,
+        5.137549783974826
+      ],
+      [
+        36.55501823213923,
+        2.5719445088442927,
+        11.335836004725719
+      ],
+      [
+        69.74382552277564,
+        -2.562663691071332,
+        -2.6312331792097465
+      ],
+      [
+        82.94788375277466,
+        -8.55845997832505,
+        78.235800601081
+      ]
+    ],
+    "porcentajes": [
+      0.41374700999015057,
+      0.18277754326720136,
+      0.16856620233572533,
+      0.16856620233572533,
+      0.06634304207119741
+    ],
+    "luminosidad_media": 0.4249309573273519,
+    "saturacion_media": 0.2536271813026872,
+    "temperatura_visual": "calida",
+    "histograma_hue_bins": [
+      0.3443787814830449,
+      0.24166314900802027,
+      0.07858449416068665,
+      0.004221190375685943,
+      0.02012100745743633,
+      0.005839313353032222,
+      0.24067820458702688,
+      0.01969888841986774,
+      0.009356971999437174,
+      0.0004221190375685944,
+      0.0011256507668495849,
+      0.033910229351343746
+    ]
+  },
+  "numerologia": {
+    "numero": 16,
+    "reduccion": 7
+  },
+  "fuentes": [
+    "tradicion_rws_comparada",
+    "anotacion_laboratorio_v1",
+    "La vía del Tarot — Alejandro Jodorowsky, Marianne Costa",
+    "El tarot: del dilema a la metáfora — Miguel Ángel Díaz Canseco"
+  ],
+  "version": 3,
+  "attributions": {
+    "significados_jodorowsky": [
+      {
+        "value": "Apertura, emergencia de lo que estaba cerrado",
+        "source": "manual",
+        "confidence": 0.85,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_estudio_via_del_tarot"
+      }
+    ],
+    "canseco_metafora": [
+      {
+        "value": "Torre de Babel interior: la soberbia se abre por un rayo.",
+        "source": "manual",
+        "confidence": 0.8,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_canseco_dilema_metafora"
+      }
+    ]
+  },
+  "significados": [
+    {
+      "fuente": "La vía del Tarot",
+      "autores": [
+        "Alejandro Jodorowsky",
+        "Marianne Costa"
+      ],
+      "esencia": "Apertura y emergencia de lo que estaba cerrado; alivio espiritual.",
+      "subtitulo": "Apertura, emergencia de lo que estaba cerrado",
+      "en_lectura": "Puede ser mudanza, separación, gran expresión o deseo de cambio de vida. El libro la lee más como apertura que como castigo.",
+      "preguntas": [
+        "¿Qué estaba encerrado y ahora sale?",
+        "¿Esta ruptura también es alivio?"
+      ],
+      "palabras_luz": [
+        "apertura",
+        "liberacion",
+        "expresion contenida",
+        "alivio",
+        "salida al exterior"
+      ],
+      "palabras_sombra": [
+        "ruptura brusca",
+        "caos de mudanza",
+        "torre que se resistia"
+      ],
+      "palabras_neutrales": [
+        "casa de dios",
+        "emergencia",
+        "estructura abierta"
+      ]
+    },
+    {
+      "fuente": "El tarot: del dilema a la metáfora",
+      "autores": [
+        "Miguel Ángel Díaz Canseco"
+      ],
+      "esencia": "Torre de Babel interior: la soberbia se abre por un rayo.",
+      "subtitulo": "Del dilema a la metáfora",
+      "en_lectura": "explosión de luz; figuras caen y el encuadre se abre",
+      "preguntas": [
+        "¿Qué estructura pedía abrirse, aunque duela?"
+      ],
+      "palabras_luz": [
+        "apertura brusca",
+        "caida de soberbia",
+        "revelacion"
+      ],
+      "palabras_sombra": [
+        "caos",
+        "hubris castigada"
+      ],
+      "palabras_neutrales": []
+    }
+  ]
+}

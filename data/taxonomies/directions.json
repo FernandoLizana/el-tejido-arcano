@@ -1,0 +1,8 @@
+{
+  "items": [
+    "ascendente", "descendente", "izquierda", "derecha", "centro",
+    "adelante", "atras", "hacia_arriba", "hacia_abajo", "circular",
+    "vertical", "horizontal", "mirada_frente", "mirada_perfil", "estatico"
+  ],
+  "version": 1
+}

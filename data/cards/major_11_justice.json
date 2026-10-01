@@ -1,0 +1,261 @@
+{
+  "id": "major_11_justice",
+  "nombre": "La Justicia",
+  "nombre_original": "Justice",
+  "numero": 11,
+  "legacy_filename": "la_justicia.png",
+  "elementos": [
+    "aire"
+  ],
+  "simbolos": [
+    "balanza",
+    "espada",
+    "trono",
+    "corona",
+    "velo"
+  ],
+  "personajes": [
+    {
+      "tipo": "figura_humana",
+      "cantidad": 1,
+      "movimiento": "equilibrio"
+    }
+  ],
+  "direcciones": {
+    "mirada": [
+      "frente"
+    ],
+    "movimiento": [
+      "estatico"
+    ],
+    "orientacion_general": "vertical"
+  },
+  "palabras_clave": {
+    "neutrales": [
+      "equilibrio",
+      "verdad",
+      "consecuencia",
+      "balanza",
+      "espada",
+      "medida"
+    ],
+    "luz": [
+      "claridad",
+      "responsabilidad",
+      "equidad",
+      "equilibrio",
+      "ajuste fino",
+      "espiritualidad práctica",
+      "ideas claras",
+      "medida"
+    ],
+    "sombra": [
+      "juicio severo",
+      "rigidez",
+      "culpa",
+      "rigidez moral",
+      "trampa del equilibrio",
+      "autoexigencia",
+      "retribucion dura",
+      "juicio sin compasion"
+    ]
+  },
+  "arquetipos": [
+    "juicio_moral",
+    "equilibrio",
+    "limite",
+    "perfeccion"
+  ],
+  "emociones": [
+    "claridad",
+    "seriedad",
+    "calma",
+    "serenidad exigente",
+    "lucidez",
+    "responsabilidad"
+  ],
+  "etapas_narrativas": [
+    "revelacion",
+    "prueba"
+  ],
+  "tipo": "arcano_mayor",
+  "palo": null,
+  "mazo": "rider_waite_smith",
+  "imagen": "cartas/la_justicia.png",
+  "colores": {
+    "dominantes_rgb": [
+      [
+        189,
+        137,
+        102
+      ],
+      [
+        53,
+        24,
+        20
+      ],
+      [
+        107,
+        88,
+        66
+      ],
+      [
+        155,
+        31,
+        33
+      ],
+      [
+        246,
+        234,
+        145
+      ]
+    ],
+    "dominantes_hex": [
+      "#bd8966",
+      "#351814",
+      "#6b5842",
+      "#9b1f21",
+      "#f6ea91"
+    ],
+    "dominantes_lab": [
+      [
+        61.36985510365834,
+        15.542211995929534,
+        26.57030688162434
+      ],
+      [
+        12.35701844158897,
+        13.97363267860771,
+        9.254816111055336
+      ],
+      [
+        38.72362314995402,
+        4.314823342404017,
+        15.688975291155426
+      ],
+      [
+        34.10882979630857,
+        49.84429232113169,
+        31.574160466758183
+      ],
+      [
+        91.90198168008402,
+        -8.162286265860796,
+        44.61591602692878
+      ]
+    ],
+    "porcentajes": [
+      0.3135958808794879,
+      0.25793209017534097,
+      0.20449485109935986,
+      0.15237962705260227,
+      0.07159755079320902
+    ],
+    "luminosidad_media": 0.5462658873735967,
+    "saturacion_media": 0.5600330721951217,
+    "temperatura_visual": "calida",
+    "histograma_hue_bins": [
+      0.33676593376008906,
+      0.3350264403005845,
+      0.009184525466184248,
+      0.0020873921514055105,
+      0.050514890064013364,
+      0.01593376008906207,
+      0.00772335096020039,
+      0.0004870581686612858,
+      0.00020873921514055107,
+      0.00013915947676036738,
+      0.0003478986919009184,
+      0.2415808516559978
+    ]
+  },
+  "numerologia": {
+    "numero": 11,
+    "reduccion": 2
+  },
+  "fuentes": [
+    "tradicion_rws_comparada",
+    "anotacion_laboratorio_v1",
+    "La vía del Tarot — Alejandro Jodorowsky, Marianne Costa",
+    "El tarot: del dilema a la metáfora — Miguel Ángel Díaz Canseco"
+  ],
+  "version": 3,
+  "attributions": {
+    "significados_jodorowsky": [
+      {
+        "value": "Equilibrio, perfección",
+        "source": "manual",
+        "confidence": 0.85,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_estudio_via_del_tarot"
+      }
+    ],
+    "canseco_metafora": [
+      {
+        "value": "Espada y balanza: medida y consecuencia a la vista.",
+        "source": "manual",
+        "confidence": 0.8,
+        "reviewed": true,
+        "author": "laboratorio",
+        "method": "parafrasis_canseco_dilema_metafora"
+      }
+    ]
+  },
+  "significados": [
+    {
+      "fuente": "La vía del Tarot",
+      "autores": [
+        "Alejandro Jodorowsky",
+        "Marianne Costa"
+      ],
+      "esencia": "Equilibrio y perfección lúcida frente a lo real.",
+      "subtitulo": "Equilibrio, perfección",
+      "en_lectura": "Llama a ajustar, decidir con claridad y mirar consecuencias. También advierte sobre un equilibrio demasiado rígido.",
+      "preguntas": [
+        "¿Qué necesita equilibrarse de verdad?",
+        "¿Mi justicia es compasiva o solo exacta?"
+      ],
+      "palabras_luz": [
+        "equilibrio",
+        "claridad",
+        "ajuste fino",
+        "espiritualidad práctica",
+        "ideas claras"
+      ],
+      "palabras_sombra": [
+        "rigidez moral",
+        "trampa del equilibrio",
+        "juicio severo",
+        "autoexigencia"
+      ],
+      "palabras_neutrales": [
+        "balanza",
+        "espada",
+        "medida"
+      ]
+    },
+    {
+      "fuente": "El tarot: del dilema a la metáfora",
+      "autores": [
+        "Miguel Ángel Díaz Canseco"
+      ],
+      "esencia": "Espada y balanza: medida y consecuencia a la vista.",
+      "subtitulo": "Del dilema a la metáfora",
+      "en_lectura": "corte seco; un objeto se pesa, una decisión cae",
+      "preguntas": [
+        "¿Qué necesita un ajuste justo, no vengativo?"
+      ],
+      "palabras_luz": [
+        "equilibrio",
+        "claridad",
+        "medida"
+      ],
+      "palabras_sombra": [
+        "retribucion dura",
+        "juicio sin compasion"
+      ],
+      "palabras_neutrales": []
+    }
+  ]
+}

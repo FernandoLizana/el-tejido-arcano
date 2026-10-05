@@ -16,14 +16,26 @@ build/
 
 # Secrets & local env (never commit real secrets)
 .env
+.env.*
+!.env.example
 .env.local
 .env.*.local
 *.pem
 *.key
-!.env.example
+*.p12
+*.pfx
+id_rsa
+id_rsa.pub
+id_ed25519
+id_ed25519.pub
+credentials.json
+**/credentials.json
+*cookies*
+cookies.txt
 
-# Streamlit secrets
+# Streamlit secrets / local session
 .streamlit/secrets.toml
+.streamlit/secrets.*.toml
 
 # Caches & generated graphs
 data/cache/
@@ -39,6 +51,7 @@ data/sources/neuro/*_hits.txt
 data/sources/neuro/*_meta.txt
 data/sources/pdfs/
 *.pdf
+*.epub
 
 # Logs & OS
 *.log
